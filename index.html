@@ -2,26 +2,203 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>常用网址</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的第一个网页 - 个人介绍</title>
     <style>
-        /* 可在此处添加样式美化链接和页面 */
-        ul { line-height: 2.5; }
-        a { text-decoration: none; color: #2385bb; }
-        a:hover { text-decoration: underline; }
+        /* ========== CSS 样式部分：负责美化页面 ========== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Microsoft YaHei", sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            max-width: 450px;
+            width: 100%;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+        }
+
+        .avatar {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            margin: 0 auto 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 50px;
+            color: white;
+            font-weight: bold;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .title {
+            color: #888;
+            font-size: 16px;
+            margin-bottom: 25px;
+        }
+
+        .bio {
+            color: #555;
+            font-size: 15px;
+            line-height: 1.8;
+            margin-bottom: 25px;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+
+        .tag {
+            background: #f0f2f5;
+            color: #555;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .tag:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 35px;
+            border-radius: 30px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.6);
+        }
+
+        .message {
+            margin-top: 20px;
+            padding: 15px;
+            background: #e8f5e9;
+            color: #2e7d32;
+            border-radius: 10px;
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .counter {
+            margin-top: 15px;
+            color: #888;
+            font-size: 14px;
+        }
     </style>
 </head>
 <body>
-    <h1>常用网址列表</h1>
-    <ul>
-        <li>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
-        </li>
-        <li>
-            <a href="https://wenxin.baidu.com" target="_blank" rel="noopener noreferrer">文心</a>
-        </li>
-        <li>
-            <a href="https://jzsc.mohurd.gov.cn" target="_blank" rel="noopener noreferrer">四库一平台</a>
-        </li>
-    </ul>
+    <!-- ========== HTML 结构部分：负责页面内容 ========== -->
+    <div class="card">
+        <div class="avatar">我</div>
+        <h1>前端新手</h1>
+        <p class="title">正在从零学习前端开发 ✨</p>
+        <p class="bio">
+            大家好！这是我用 VS Code 写的第一个网页。
+            前端开发很有趣，通过HTML、CSS和JavaScript，
+            可以创造出各种精彩的网页和应用。
+        </p>
+        <div class="tags">
+            <span class="tag">HTML</span>
+            <span class="tag">CSS</span>
+            <span class="tag">JavaScript</span>
+            <span class="tag">VS Code</span>
+        </div>
+        <button class="btn" id="helloBtn">点我打个招呼 👋</button>
+        <div class="message" id="msg"></div>
+        <p class="counter">按钮点击次数：<span id="count">0</span></p>
+    </div>
+
+    <script>
+        // ========== JavaScript 交互部分：负责页面逻辑 ==========
+        
+        // 获取页面上的元素
+        const btn = document.getElementById('helloBtn');
+        const msg = document.getElementById('msg');
+        const countSpan = document.getElementById('count');
+        
+        let clickCount = 0;
+        
+        // 准备多条问候语
+        const greetings = [
+            '你好呀，欢迎来到前端世界！🎉',
+            '恭喜！你迈出了前端开发的第一步！🚀',
+            '写代码是不是很有成就感？继续加油！💪',
+            '你已经会写HTML+CSS+JS了，太厉害了！⭐',
+            '坚持学习，你会成为优秀的前端工程师！🌟'
+        ];
+        
+        // 给按钮添加点击事件
+        btn.addEventListener('click', function() {
+            clickCount++;
+            countSpan.textContent = clickCount;
+            
+            // 随机选一条问候语
+            const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
+            msg.textContent = randomGreeting;
+            msg.style.display = 'block';
+            
+            // 3秒后自动隐藏
+            setTimeout(() => {
+                msg.style.display = 'none';
+            }, 3000);
+        });
+        
+        // 标签点击效果
+        document.querySelectorAll('.tag').forEach(tag => {
+            tag.addEventListener('click', function() {
+                alert('你点击了标签：' + this.textContent);
+            });
+        });
+        
+        // 页面加载完成时在控制台打印欢迎语（按F12打开控制台可看到）
+        console.log('%c欢迎来到前端开发！', 'color: #667eea; font-size: 20px; font-weight: bold;');
+        console.log('提示：按F12打开开发者工具，你可以在Elements面板查看HTML结构，在Console面板看到JS输出。');
+    </script>
 </body>
 </html>
