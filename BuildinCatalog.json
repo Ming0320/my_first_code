@@ -1,0 +1,2799 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2026-02-10-982",
+    "Wrappers": [
+        {
+            "BundleGUID": "7ded33d010da70a794a348b19d1e70e0",
+            "FileName": "defaultpackage_assets__app.bundle"
+        },
+        {
+            "BundleGUID": "c930e9f3a58095af319feeaee1799fd9",
+            "FileName": "defaultpackage_assets_data_role_2d_actor001.bundle"
+        },
+        {
+            "BundleGUID": "bf442665d82a3fce9a1c52b33f6513bc",
+            "FileName": "defaultpackage_assets_data_role_2d_monster000.bundle"
+        },
+        {
+            "BundleGUID": "b4de176ec3b380f1b602135cf1768a2b",
+            "FileName": "defaultpackage_assets_data_role_2d_monster001.bundle"
+        },
+        {
+            "BundleGUID": "eb919c2cb412ba1d212bbd555ef7678c",
+            "FileName": "defaultpackage_assets_data_role_2d_monster002.bundle"
+        },
+        {
+            "BundleGUID": "85068677febc4b389971ed633e90a367",
+            "FileName": "defaultpackage_assets_data_role_2d_monster003.bundle"
+        },
+        {
+            "BundleGUID": "70ecbd578256d0591b1131c1f9dedcdf",
+            "FileName": "defaultpackage_assets_data_role_2d_monster004.bundle"
+        },
+        {
+            "BundleGUID": "f1ce21c2dcdc2c4e1693bb6ce9ad8a8f",
+            "FileName": "defaultpackage_assets_data_role_2d_monster005.bundle"
+        },
+        {
+            "BundleGUID": "1e7c59247e8af362896ddff4142288db",
+            "FileName": "defaultpackage_assets_data_role_2d_monster006.bundle"
+        },
+        {
+            "BundleGUID": "ed9bd6755718171c2aad08cf99369533",
+            "FileName": "defaultpackage_assets_data_role_2d_monster007.bundle"
+        },
+        {
+            "BundleGUID": "d61037e9181f5d0aba1fbe97cb3ff813",
+            "FileName": "defaultpackage_assets_data_role_2d_monster008.bundle"
+        },
+        {
+            "BundleGUID": "1cfbfe18115fb438841c64b855f79e8d",
+            "FileName": "defaultpackage_assets_data_role_2d_monster009.bundle"
+        },
+        {
+            "BundleGUID": "3fcf54d064db8798f295157c1d05a3ca",
+            "FileName": "defaultpackage_assets_data_role_2d_monster010.bundle"
+        },
+        {
+            "BundleGUID": "9f3de152213d01dd0ebd13d73098f880",
+            "FileName": "defaultpackage_assets_data_role_2d_monster011.bundle"
+        },
+        {
+            "BundleGUID": "e1871aff2f4e23ca68098253eb766f08",
+            "FileName": "defaultpackage_assets_data_role_2d_monster012.bundle"
+        },
+        {
+            "BundleGUID": "63e8b8a737ba57864eb4c56698d5a317",
+            "FileName": "defaultpackage_assets_data_role_2d_monster013.bundle"
+        },
+        {
+            "BundleGUID": "49249ab14fc95208ac387b2d0925d45e",
+            "FileName": "defaultpackage_assets_data_role_2d_monster014.bundle"
+        },
+        {
+            "BundleGUID": "7558fce5733fe627b26fb159c075d3a7",
+            "FileName": "defaultpackage_assets_data_role_2d_monster015.bundle"
+        },
+        {
+            "BundleGUID": "63906d5c96add6700e21df72064408a8",
+            "FileName": "defaultpackage_assets_data_role_2d_monster016.bundle"
+        },
+        {
+            "BundleGUID": "8601301f0f70e3c60140d80fd18da22b",
+            "FileName": "defaultpackage_assets_data_role_2d_monster017.bundle"
+        },
+        {
+            "BundleGUID": "851f15107ca91f04a43816c39e879884",
+            "FileName": "defaultpackage_assets_data_role_2d_monster018.bundle"
+        },
+        {
+            "BundleGUID": "ec77cb00078a38179c5f61927d404070",
+            "FileName": "defaultpackage_assets_data_role_2d_monster019.bundle"
+        },
+        {
+            "BundleGUID": "4f25006fbfe6a168409fc411ba59d384",
+            "FileName": "defaultpackage_assets_data_role_2d_monster020.bundle"
+        },
+        {
+            "BundleGUID": "aae737f20ebf7798b1a540675ffc26d2",
+            "FileName": "defaultpackage_assets_data_role_2d_monster021.bundle"
+        },
+        {
+            "BundleGUID": "100e98656276bf3f8789525dd5634057",
+            "FileName": "defaultpackage_assets_data_role_2d_monster022.bundle"
+        },
+        {
+            "BundleGUID": "f2dd3ac603fac05fb9ac07a7991e0734",
+            "FileName": "defaultpackage_assets_data_role_2d_monster023.bundle"
+        },
+        {
+            "BundleGUID": "353896924d4de48b96e6f468983f1c34",
+            "FileName": "defaultpackage_assets_data_role_2d_monster024.bundle"
+        },
+        {
+            "BundleGUID": "6fd296b1dc10b174879ad0539bd4477a",
+            "FileName": "defaultpackage_assets_data_role_2d_monster025.bundle"
+        },
+        {
+            "BundleGUID": "6740bbe11f7969785d52df04cb340051",
+            "FileName": "defaultpackage_assets_data_role_2d_monster026.bundle"
+        },
+        {
+            "BundleGUID": "6d38aee951273fab65b195a8ae584bf5",
+            "FileName": "defaultpackage_assets_data_role_2d_monster027.bundle"
+        },
+        {
+            "BundleGUID": "7aedd608944f85e8f3049fc0332c60bb",
+            "FileName": "defaultpackage_assets_data_role_2d_monster028.bundle"
+        },
+        {
+            "BundleGUID": "d976ed055cdbb6c7fe9983edbac7f6db",
+            "FileName": "defaultpackage_assets_data_role_2d_monster029.bundle"
+        },
+        {
+            "BundleGUID": "e4638fd92affd827a97df2b1ae466b7b",
+            "FileName": "defaultpackage_assets_data_role_2d_monster030.bundle"
+        },
+        {
+            "BundleGUID": "330431d82b9fc73a9ba88a42ba7cb647",
+            "FileName": "defaultpackage_assets_data_role_2d_monster031.bundle"
+        },
+        {
+            "BundleGUID": "d555ea5c44c91fb960ad62da3e4c7aae",
+            "FileName": "defaultpackage_assets_data_role_2d_monster032.bundle"
+        },
+        {
+            "BundleGUID": "edf50352ad91d29fba85d76145dccfbf",
+            "FileName": "defaultpackage_assets_data_role_2d_monster033.bundle"
+        },
+        {
+            "BundleGUID": "0418e5c1302d8ba8be7a2ea2b66f30a9",
+            "FileName": "defaultpackage_assets_data_role_2d_monster034.bundle"
+        },
+        {
+            "BundleGUID": "d363263cf762ec86d78cec0bb4747b9f",
+            "FileName": "defaultpackage_assets_data_role_2d_monster035.bundle"
+        },
+        {
+            "BundleGUID": "45531bc05e447bac350a70abfdf935d4",
+            "FileName": "defaultpackage_assets_data_role_2d_monster036.bundle"
+        },
+        {
+            "BundleGUID": "8eee0f8f13b718448aa8bb9aa3e849ff",
+            "FileName": "defaultpackage_assets_data_role_2d_monster037.bundle"
+        },
+        {
+            "BundleGUID": "605374033ad33bbb54fd3a574c582eb1",
+            "FileName": "defaultpackage_assets_data_role_2d_monster038.bundle"
+        },
+        {
+            "BundleGUID": "e3087a7cf0ab177255293bd28a34dd4e",
+            "FileName": "defaultpackage_assets_data_role_2d_monster039.bundle"
+        },
+        {
+            "BundleGUID": "08a477a3a4ce5983eceb79f5d5d37336",
+            "FileName": "defaultpackage_assets_data_role_2d_monster040.bundle"
+        },
+        {
+            "BundleGUID": "2553b9985db1cc0674a62c350d2eb2cd",
+            "FileName": "defaultpackage_assets_data_role_2d_monster041.bundle"
+        },
+        {
+            "BundleGUID": "5af40103470d8605deb9a6ae02b75ec8",
+            "FileName": "defaultpackage_assets_data_role_2d_monster042.bundle"
+        },
+        {
+            "BundleGUID": "bb94b65116d6184cf167e990b92538cd",
+            "FileName": "defaultpackage_assets_data_role_2d_monster043.bundle"
+        },
+        {
+            "BundleGUID": "96267cdc22bbd35593ea9e4c971c3119",
+            "FileName": "defaultpackage_assets_data_role_2d_monster044.bundle"
+        },
+        {
+            "BundleGUID": "2b7f8463d6ec80b1896ff30038f623f7",
+            "FileName": "defaultpackage_assets_data_role_2d_monster045.bundle"
+        },
+        {
+            "BundleGUID": "374dafacfc6fee5d5b012f4e01cda715",
+            "FileName": "defaultpackage_assets_data_role_2d_monster046.bundle"
+        },
+        {
+            "BundleGUID": "3674ae1179d025e6d488c99f173b98c8",
+            "FileName": "defaultpackage_assets_data_role_2d_monster047.bundle"
+        },
+        {
+            "BundleGUID": "65aa66ef22fea03c11d6d2e343af4802",
+            "FileName": "defaultpackage_assets_data_role_2d_monster048.bundle"
+        },
+        {
+            "BundleGUID": "808434b3d1ddaefda6b279c4fc860b46",
+            "FileName": "defaultpackage_assets_data_role_2d_monster049.bundle"
+        },
+        {
+            "BundleGUID": "debb456c9fb5d633736e1746a8211f5a",
+            "FileName": "defaultpackage_assets_data_role_2d_monster050.bundle"
+        },
+        {
+            "BundleGUID": "7f37c2a2d51ddcfe04b600fab4579bf4",
+            "FileName": "defaultpackage_assets_data_role_2d_monster051.bundle"
+        },
+        {
+            "BundleGUID": "9b068f11f3ef1732104d717bc00b2fe2",
+            "FileName": "defaultpackage_assets_data_role_2d_monster052.bundle"
+        },
+        {
+            "BundleGUID": "48081c5085498d5db56bec7cbb5a3eca",
+            "FileName": "defaultpackage_assets_data_role_2d_monster053.bundle"
+        },
+        {
+            "BundleGUID": "fc514a6acc75110d386177692b650260",
+            "FileName": "defaultpackage_assets_data_role_2d_monster054.bundle"
+        },
+        {
+            "BundleGUID": "f22b1402019f26129d3018ffd1e10883",
+            "FileName": "defaultpackage_assets_data_role_2d_monster055.bundle"
+        },
+        {
+            "BundleGUID": "81988d5280f1071085effcb72dea79d7",
+            "FileName": "defaultpackage_assets_data_role_2d_monster056.bundle"
+        },
+        {
+            "BundleGUID": "6af578031b3621524030df36a8496d5a",
+            "FileName": "defaultpackage_assets_data_role_2d_monster057.bundle"
+        },
+        {
+            "BundleGUID": "b8bcbc43295e9850e0e297dcf90df495",
+            "FileName": "defaultpackage_assets_data_role_2d_monster058.bundle"
+        },
+        {
+            "BundleGUID": "39e82fb1b8c398930eb78eb44382f4c1",
+            "FileName": "defaultpackage_assets_data_role_2d_monster059.bundle"
+        },
+        {
+            "BundleGUID": "53607692ea22ca58aa21c94a5c431692",
+            "FileName": "defaultpackage_assets_data_role_2d_monster060.bundle"
+        },
+        {
+            "BundleGUID": "adc86d2005824b9c925be161e8b63bae",
+            "FileName": "defaultpackage_assets_data_role_2d_monster061.bundle"
+        },
+        {
+            "BundleGUID": "48d50bc3c8714b72531fb155bba67eba",
+            "FileName": "defaultpackage_assets_data_role_2d_monster062.bundle"
+        },
+        {
+            "BundleGUID": "7d559ffef9b759f1d8de5fd96d116c77",
+            "FileName": "defaultpackage_assets_data_role_2d_monster063.bundle"
+        },
+        {
+            "BundleGUID": "93568efd8756691b87572d20aed07beb",
+            "FileName": "defaultpackage_assets_data_role_2d_monster064.bundle"
+        },
+        {
+            "BundleGUID": "cc78de3d2ed10a4d485ecedb48f7ecfb",
+            "FileName": "defaultpackage_assets_data_role_2d_monster065.bundle"
+        },
+        {
+            "BundleGUID": "c47d45a55c7fdaee24856603e177586d",
+            "FileName": "defaultpackage_assets_data_role_2d_monster066.bundle"
+        },
+        {
+            "BundleGUID": "c69ed2522a87c50a850ef674387b32ac",
+            "FileName": "defaultpackage_assets_data_role_2d_monster067.bundle"
+        },
+        {
+            "BundleGUID": "341318e7347840bf3dc18308f7449306",
+            "FileName": "defaultpackage_assets_data_role_2d_monster100.bundle"
+        },
+        {
+            "BundleGUID": "5f3ae56544b6bd8cce00f4d1c1b23729",
+            "FileName": "defaultpackage_assets_data_role_2d_monster102.bundle"
+        },
+        {
+            "BundleGUID": "56f0f4a09ba9b66d6ed0df08b626be35",
+            "FileName": "defaultpackage_assets_data_role_2d_monster103.bundle"
+        },
+        {
+            "BundleGUID": "68ccebdca798a545067492994c513240",
+            "FileName": "defaultpackage_assets_data_role_2d_monster104.bundle"
+        },
+        {
+            "BundleGUID": "8bd5a1a40283fdae7701a5b6b0084d1e",
+            "FileName": "defaultpackage_assets_data_role_2d_monster105.bundle"
+        },
+        {
+            "BundleGUID": "47dcb8f8a0b0a0f6506118d999f1aa33",
+            "FileName": "defaultpackage_assets_resourcesex_animations_actor001.bundle"
+        },
+        {
+            "BundleGUID": "7675456acc22889d5f2195eb42d0baeb",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster000.bundle"
+        },
+        {
+            "BundleGUID": "1ef995aa2c43fd87403265655e2a3a73",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster001.bundle"
+        },
+        {
+            "BundleGUID": "028fa42cd872b7eae770e488ba7f3f93",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster002.bundle"
+        },
+        {
+            "BundleGUID": "04e9120f203af62c4f2e6ed473ba4a81",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster003.bundle"
+        },
+        {
+            "BundleGUID": "191c9621002f5f80a489a5239fb30daa",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster004.bundle"
+        },
+        {
+            "BundleGUID": "cd4e6f9af17a085c1bcc32c07d7d2e9f",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster005.bundle"
+        },
+        {
+            "BundleGUID": "9629128aed5c6f00287faa03f8dd2ba6",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster006.bundle"
+        },
+        {
+            "BundleGUID": "05e1fb6513d7b6c5fc55005c6afafb46",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster007.bundle"
+        },
+        {
+            "BundleGUID": "849621c92768b5a31f2221a999669547",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster008.bundle"
+        },
+        {
+            "BundleGUID": "9c570f5f7bfd1fd517116b33034efb50",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster009.bundle"
+        },
+        {
+            "BundleGUID": "399dd5889a7ea4bab0c8efe2fe8744e2",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster010.bundle"
+        },
+        {
+            "BundleGUID": "1cc5854eed5c7c3ea5dc660c1494bcda",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster011.bundle"
+        },
+        {
+            "BundleGUID": "927fefafcde8025213499c8e1c5fdd4e",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster012.bundle"
+        },
+        {
+            "BundleGUID": "3f1f802376c937eee33613a78875eed8",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster013.bundle"
+        },
+        {
+            "BundleGUID": "16d6ad0720af0e765c570c657bd9f070",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster014.bundle"
+        },
+        {
+            "BundleGUID": "fd1c365b571d5850166bb413ed4ec2bb",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster015.bundle"
+        },
+        {
+            "BundleGUID": "fcea28ccaf5b6e956786c999ecdb22cc",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster016.bundle"
+        },
+        {
+            "BundleGUID": "4b82e9efb123abb7318375f13c4c54e9",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster017.bundle"
+        },
+        {
+            "BundleGUID": "f758f38cc9e079e33880362ab98c13c7",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster018.bundle"
+        },
+        {
+            "BundleGUID": "8c8073a33c22f41e5bcdbf7de6f58fd3",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster019.bundle"
+        },
+        {
+            "BundleGUID": "6ccec4001631ad78c132fd9ec54d5566",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster020.bundle"
+        },
+        {
+            "BundleGUID": "2648afa61725158058b3bf35db7d41f3",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster021.bundle"
+        },
+        {
+            "BundleGUID": "ddfea7c28797e3e112085c7fdb5dd98a",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster022.bundle"
+        },
+        {
+            "BundleGUID": "709746d0d093eefd38a3dc70e10f722d",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster023.bundle"
+        },
+        {
+            "BundleGUID": "536045143cd71e8c91a138db1e73043c",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster024.bundle"
+        },
+        {
+            "BundleGUID": "573aa90831c1f5c8523bc02b9d774b85",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster025.bundle"
+        },
+        {
+            "BundleGUID": "97b2cc9e8b68c855358c83f974196f97",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster026.bundle"
+        },
+        {
+            "BundleGUID": "dd1e8ea06fcd6dc94c366d55d8f91cbb",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster027.bundle"
+        },
+        {
+            "BundleGUID": "836593fc7eb91f0f1815eb5a0b6c1bb2",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster028.bundle"
+        },
+        {
+            "BundleGUID": "f2bd99d19d973bab0da5ee3f611aec5d",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster029.bundle"
+        },
+        {
+            "BundleGUID": "099d2f59717865a9aa6f746ed54d711b",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster030.bundle"
+        },
+        {
+            "BundleGUID": "7c8a65fe9e90016f7948b8f65d15f6c4",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster031.bundle"
+        },
+        {
+            "BundleGUID": "37a4715b8834a87393a6a6845bc12971",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster032.bundle"
+        },
+        {
+            "BundleGUID": "6ea2ab20a18920e6d4b80f83160565d7",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster033.bundle"
+        },
+        {
+            "BundleGUID": "a6896be57293abed873b45524e0dbc38",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster034.bundle"
+        },
+        {
+            "BundleGUID": "d864718ed820a7415f2762ad30de42e0",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster035.bundle"
+        },
+        {
+            "BundleGUID": "371c9b56865be5a02c6be86f72018c56",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster036.bundle"
+        },
+        {
+            "BundleGUID": "c02c7fc41da86e1d7a5084d5632a0b39",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster037.bundle"
+        },
+        {
+            "BundleGUID": "841743689d6a341cf528eb141111ee2b",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster038.bundle"
+        },
+        {
+            "BundleGUID": "5cb4ecdd3aaad552d13e9d48245edb1f",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster039.bundle"
+        },
+        {
+            "BundleGUID": "087ce486582216385c0684cd4bf8c937",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster040.bundle"
+        },
+        {
+            "BundleGUID": "64ba3ccb2214ceaaaca2d77c8945fec4",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster041.bundle"
+        },
+        {
+            "BundleGUID": "ceb1f04d85acf3495117362374b8043e",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster042.bundle"
+        },
+        {
+            "BundleGUID": "7978420d07b9f50e975584e8d75540cd",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster043.bundle"
+        },
+        {
+            "BundleGUID": "8404c99a50be3fa0cad7db4fa52b1282",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster044.bundle"
+        },
+        {
+            "BundleGUID": "5bef572075756e39427df94b032c0149",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster045.bundle"
+        },
+        {
+            "BundleGUID": "13e0812cf3400cd35f7e00d072d6333a",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster046.bundle"
+        },
+        {
+            "BundleGUID": "febed4025b10103a647546ade79cbf31",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster047.bundle"
+        },
+        {
+            "BundleGUID": "f8be8ca9f557d90491d803ecc5e4e483",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster048.bundle"
+        },
+        {
+            "BundleGUID": "1083679b5192811a7f55815b581304ad",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster049.bundle"
+        },
+        {
+            "BundleGUID": "6a1d77c5f7f9fa3fdfb1b8030cecf8a0",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster050.bundle"
+        },
+        {
+            "BundleGUID": "8cd5313b9f8a1a1807156deaf434f9ae",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster051.bundle"
+        },
+        {
+            "BundleGUID": "8a0fa19cc93e965156c770d21e1c64c3",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster052.bundle"
+        },
+        {
+            "BundleGUID": "fe1987a49dd5c1a15d1d6426de9eb170",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster053.bundle"
+        },
+        {
+            "BundleGUID": "8b3d776cc2b08658f56f4e4f7d1491fc",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster054.bundle"
+        },
+        {
+            "BundleGUID": "d7e1ed084cd50047d88b4cebe2339a4b",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster055.bundle"
+        },
+        {
+            "BundleGUID": "6cf0653ae01e9dd760851c09ac40d6ba",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster056.bundle"
+        },
+        {
+            "BundleGUID": "980d3e9a30ef92d152d0ddfb232e9d8b",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster057.bundle"
+        },
+        {
+            "BundleGUID": "1cdafe14f98d2ff1ca5d5189aa5c2b31",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster058.bundle"
+        },
+        {
+            "BundleGUID": "3bcd4366233ff485996e66ea94752041",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster059.bundle"
+        },
+        {
+            "BundleGUID": "2ce319c5ad2419898d20af39efb30cfa",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster060.bundle"
+        },
+        {
+            "BundleGUID": "1b850df53399afc4919d28be1bde7e06",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster061.bundle"
+        },
+        {
+            "BundleGUID": "1d116d4df101c35d7b14a5b6b5b7e163",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster062.bundle"
+        },
+        {
+            "BundleGUID": "705e2c90235ae0d92db3a0bf5c288d05",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster063.bundle"
+        },
+        {
+            "BundleGUID": "f988da216eb861ce1cc79f8e31cacf3d",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster064.bundle"
+        },
+        {
+            "BundleGUID": "40e60d71e1ae8517b57190acb38daaff",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster065.bundle"
+        },
+        {
+            "BundleGUID": "55a43a872870709ff4d952bc47173dbe",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster066.bundle"
+        },
+        {
+            "BundleGUID": "18875cc8978b89d49c7f88edcda9388f",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster067.bundle"
+        },
+        {
+            "BundleGUID": "c3cff208143935f8ae4af8f953b9a126",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster100.bundle"
+        },
+        {
+            "BundleGUID": "ea0ce6629587d14492559916b298d4fd",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster102.bundle"
+        },
+        {
+            "BundleGUID": "5252a77377aedda86818fbd3a9fec32f",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster103.bundle"
+        },
+        {
+            "BundleGUID": "448431e708afd32388d13ed223369a7f",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster104.bundle"
+        },
+        {
+            "BundleGUID": "051eed4446e85c65d8fce00506812ddc",
+            "FileName": "defaultpackage_assets_resourcesex_animations_monster105.bundle"
+        },
+        {
+            "BundleGUID": "e24d5ab14573270880890a0e82ff6bc6",
+            "FileName": "defaultpackage_assets_resourcesex_audios_bgm_battle.bundle"
+        },
+        {
+            "BundleGUID": "169ff5c23296d5fa7a4963fc42c7026b",
+            "FileName": "defaultpackage_assets_resourcesex_audios_bgm_map.bundle"
+        },
+        {
+            "BundleGUID": "ffe4c2601b959fdcfe2592c46cefe0e3",
+            "FileName": "defaultpackage_assets_resourcesex_audios_foot.bundle"
+        },
+        {
+            "BundleGUID": "b3ededea77df457ab154312eaf820831",
+            "FileName": "defaultpackage_assets_resourcesex_audios_skill.bundle"
+        },
+        {
+            "BundleGUID": "b35ce953fd1f728df53e8561e32430f3",
+            "FileName": "defaultpackage_assets_resourcesex_audios_ui.bundle"
+        },
+        {
+            "BundleGUID": "99d4f599050daffb40bb702116a1dbf3",
+            "FileName": "defaultpackage_assets_resourcesex_datas.bundle"
+        },
+        {
+            "BundleGUID": "cf2c217906323dd46d8ab09c539eafdb",
+            "FileName": "defaultpackage_assets_resourcesex_fonts_bmfont.bundle"
+        },
+        {
+            "BundleGUID": "01390ba5344610f8a9d6c026142998a6",
+            "FileName": "defaultpackage_assets_resourcesex_fonts_gamefont.bundle"
+        },
+        {
+            "BundleGUID": "f72930dae159aa10b0047940e27c3c08",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_buff.bundle"
+        },
+        {
+            "BundleGUID": "3559fcfd4cde726854fafffeeb9aab5e",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_bosstx.bundle"
+        },
+        {
+            "BundleGUID": "cce283720b9de45ad12248c9b2e13a0a",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_common.bundle"
+        },
+        {
+            "BundleGUID": "aed65823fb07c1ccbb0134ad50b594f3",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_kunfufx.bundle"
+        },
+        {
+            "BundleGUID": "36efe8e223a46a072fc4e63a0140bf81",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao000.bundle"
+        },
+        {
+            "BundleGUID": "7bbcc94689c6cd694545cadc57656aba",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao001.bundle"
+        },
+        {
+            "BundleGUID": "ecd58d4cca54f750187b30812929ce62",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao002.bundle"
+        },
+        {
+            "BundleGUID": "b9e91facf93b9f69787e8542c0b97993",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao003.bundle"
+        },
+        {
+            "BundleGUID": "989470dd87ce8381e58886348e67eaaa",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao004.bundle"
+        },
+        {
+            "BundleGUID": "0203933296c6f8863baa411151007e20",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao005.bundle"
+        },
+        {
+            "BundleGUID": "a81ad8f1093a9b6ac17f3daade068199",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao006.bundle"
+        },
+        {
+            "BundleGUID": "47b5807f836c395d8d3ae6ddb390001d",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao007.bundle"
+        },
+        {
+            "BundleGUID": "8cc2898a3f1d9e7da5c98bba79a0cdad",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao008.bundle"
+        },
+        {
+            "BundleGUID": "8c9cf234d826ab3d6071cb304e04a6dc",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao009.bundle"
+        },
+        {
+            "BundleGUID": "5a6a760e76d309918cdc8aed4f6b1221",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao010.bundle"
+        },
+        {
+            "BundleGUID": "845dc6b65544bc8c78c6391704edd58c",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao011.bundle"
+        },
+        {
+            "BundleGUID": "a255d861b9bf56105fd865a9645a2e4a",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao012.bundle"
+        },
+        {
+            "BundleGUID": "b1cfcffb47bf0811766688fbb2767ec0",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao013.bundle"
+        },
+        {
+            "BundleGUID": "32136f5585544a0dc391ed407ca5e0fc",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao014.bundle"
+        },
+        {
+            "BundleGUID": "769c45142f940d3a22d5a09be3877ab5",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao015.bundle"
+        },
+        {
+            "BundleGUID": "5f230ad8a91cb94fafffdbd70180199e",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao016.bundle"
+        },
+        {
+            "BundleGUID": "95e137dafe728ad68320f5d129c4f4cb",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao017.bundle"
+        },
+        {
+            "BundleGUID": "3cf31f1940dfe7e280afe1efc376d648",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao018.bundle"
+        },
+        {
+            "BundleGUID": "a1ff7e8a93f83d09ec89d7478af20342",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao019.bundle"
+        },
+        {
+            "BundleGUID": "d7031eea520f7d0868245da1b7fc5e14",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao020.bundle"
+        },
+        {
+            "BundleGUID": "265e071f17378062d1326ea06069cd1b",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao021.bundle"
+        },
+        {
+            "BundleGUID": "43a58ca88bcaf147f03e83430b812082",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao022.bundle"
+        },
+        {
+            "BundleGUID": "cb8810f894b1ecc8799e433b4050fa70",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao023.bundle"
+        },
+        {
+            "BundleGUID": "754872e54c3c05355834d59b65db5155",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao024.bundle"
+        },
+        {
+            "BundleGUID": "4a6328aabce9cc80410951862409b59d",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao025.bundle"
+        },
+        {
+            "BundleGUID": "3f7f924ffd1865cd629a7611588df70e",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao026.bundle"
+        },
+        {
+            "BundleGUID": "a3385b16d4f291fdd019ddd69a9db53b",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao027.bundle"
+        },
+        {
+            "BundleGUID": "0522f01ca738bf74b22e3d2ec17e4b47",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao028.bundle"
+        },
+        {
+            "BundleGUID": "82469f169414fba93e996d25e0dc0f78",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao029.bundle"
+        },
+        {
+            "BundleGUID": "cb501e9795a66f1aca699df3bd87f4ac",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao030.bundle"
+        },
+        {
+            "BundleGUID": "19dafe19d75ea17d0c760d123f326924",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao031.bundle"
+        },
+        {
+            "BundleGUID": "dd682115d6eb7232a0c4514cc57e4c05",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao032.bundle"
+        },
+        {
+            "BundleGUID": "ce9827e8f45a978cc80e2d03acb84ed7",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao033.bundle"
+        },
+        {
+            "BundleGUID": "6cd8b28bf7bb21927c7aa142d21aa007",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao034.bundle"
+        },
+        {
+            "BundleGUID": "0ad28f05d38e1c438c06df9c50480cd5",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao035.bundle"
+        },
+        {
+            "BundleGUID": "e14773271ce6c26cf9b1f2d7aa195acc",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao036.bundle"
+        },
+        {
+            "BundleGUID": "e5909bb96b1c8dae2d9d32080d0373f5",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao037.bundle"
+        },
+        {
+            "BundleGUID": "354845490efcf94a03b14528262ac8db",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao038.bundle"
+        },
+        {
+            "BundleGUID": "baf6e614c495a77e890deef5e55a0517",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao039.bundle"
+        },
+        {
+            "BundleGUID": "8ea9f5885af684c1ee74cc6a0c9dbe27",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao040.bundle"
+        },
+        {
+            "BundleGUID": "a5a91d52c1bf36f2db51ca7d72c7b401",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao041.bundle"
+        },
+        {
+            "BundleGUID": "a3d031e0567e0d715bea1e069877ec07",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao042.bundle"
+        },
+        {
+            "BundleGUID": "40708f5180b4afb7583cc7076a10aaca",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao043.bundle"
+        },
+        {
+            "BundleGUID": "e290557e933ce094afdc2a2f462703e7",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao044.bundle"
+        },
+        {
+            "BundleGUID": "7d46e7a188152301f21633c806dd1c54",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao045.bundle"
+        },
+        {
+            "BundleGUID": "63d966fa68de4e04ea0e4940a7597c30",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao046.bundle"
+        },
+        {
+            "BundleGUID": "fc1aeca298e64046f4526b7927928b23",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao062.bundle"
+        },
+        {
+            "BundleGUID": "b055e2ea8015fc033bc960636b260402",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao063.bundle"
+        },
+        {
+            "BundleGUID": "aeaf4c961ee5175516b34173879749d9",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao065.bundle"
+        },
+        {
+            "BundleGUID": "1b0c2960675c175bb4a65e3729de3911",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao066.bundle"
+        },
+        {
+            "BundleGUID": "9ca727343c9b402b0ff5719589ca675c",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao067.bundle"
+        },
+        {
+            "BundleGUID": "9118f6dfd45655a20d565485650651e9",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_gongji_2.bundle"
+        },
+        {
+            "BundleGUID": "3288ee0fc3acf7407435a74ccc2b0d45",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_gongji_3.bundle"
+        },
+        {
+            "BundleGUID": "af14194947229b65ba36d2865c67e030",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_gongji_4.bundle"
+        },
+        {
+            "BundleGUID": "c0a03ac578f9a9c57cc3bb593cfa633f",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_gongji_5.bundle"
+        },
+        {
+            "BundleGUID": "9adc16bbc2f7bb3c32020e94d7e9ed45",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_gongji_6.bundle"
+        },
+        {
+            "BundleGUID": "bc55053711a2de6b5d8b35c58f764047",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_jineng_1.bundle"
+        },
+        {
+            "BundleGUID": "57419aeef8af6a56733b6857cc4a9175",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_jineng_2.bundle"
+        },
+        {
+            "BundleGUID": "048d8fae90c40eedda195eaf6bfa2914",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_jineng_3.bundle"
+        },
+        {
+            "BundleGUID": "75a736ee049324f5196c1d5baf32087e",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_jineng_4.bundle"
+        },
+        {
+            "BundleGUID": "d1b7a47880d31bffe25ca0b21daa8c08",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_jineng_5.bundle"
+        },
+        {
+            "BundleGUID": "3539f086d212a83e98082f22b1c6de24",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_jntexiao_texiao_zhujue_jineng_6.bundle"
+        },
+        {
+            "BundleGUID": "1d92d527990ad219eb31b618f24423fc",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_texiao.bundle"
+        },
+        {
+            "BundleGUID": "4b0951d1bde69f10fce87fe23ea4f5ab",
+            "FileName": "defaultpackage_assets_resourcesex_fxs_uitexiao.bundle"
+        },
+        {
+            "BundleGUID": "2d7ba21e64ccb27dd8940a6f7f4fa8d4",
+            "FileName": "defaultpackage_assets_resourcesex_hotdll.bundle"
+        },
+        {
+            "BundleGUID": "d7ea88ea3ea24e2ea14e1af200afa5e0",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_1.bundle"
+        },
+        {
+            "BundleGUID": "4de768d973e2e7f4c7f13c1b1ede2c14",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_10.bundle"
+        },
+        {
+            "BundleGUID": "707d234adac67294cf832b57183ced90",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_101.bundle"
+        },
+        {
+            "BundleGUID": "82831033fecf0c79e3ff38e8e929a960",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_102.bundle"
+        },
+        {
+            "BundleGUID": "7111a63be7641587e8efe8a9e36adf55",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_103.bundle"
+        },
+        {
+            "BundleGUID": "6c22a320094df7ae25726515229d5ab0",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_104.bundle"
+        },
+        {
+            "BundleGUID": "0a58410ec73e577d6bb886df34d35948",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_105.bundle"
+        },
+        {
+            "BundleGUID": "b835c0560f63d0ed272346db3b913fe7",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_106.bundle"
+        },
+        {
+            "BundleGUID": "c153b3cb191b170283576dc00fc231a2",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_107.bundle"
+        },
+        {
+            "BundleGUID": "5a1cea61c898550baf26382e0cae3ee6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_108.bundle"
+        },
+        {
+            "BundleGUID": "d84c058256c4906d9b34a00892669c20",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_109.bundle"
+        },
+        {
+            "BundleGUID": "21b25f298b449da5a235aadb22edfec2",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_10_1.bundle"
+        },
+        {
+            "BundleGUID": "2e67354a016902941674cdd834a054ab",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_11.bundle"
+        },
+        {
+            "BundleGUID": "56f9bdd04fb019e60830802a50447211",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_12.bundle"
+        },
+        {
+            "BundleGUID": "3fd1334bd5d0cab9c02c757b2d1addb7",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_13.bundle"
+        },
+        {
+            "BundleGUID": "4041c0ca0477354df2abcc2656d3ed94",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_13_1.bundle"
+        },
+        {
+            "BundleGUID": "d1f4c0f2b055d486bd931af8499dd18c",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_14.bundle"
+        },
+        {
+            "BundleGUID": "2adedaa51a13cc5ccc1e74639eb1f2a2",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_14_1.bundle"
+        },
+        {
+            "BundleGUID": "43bc5771d05da8199de0c7e4160538a1",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_14_2.bundle"
+        },
+        {
+            "BundleGUID": "518ca5a26a89c7dc4c1120903721ecf6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_15.bundle"
+        },
+        {
+            "BundleGUID": "48ddf2a9af4eedbc936d43671c4539a1",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_15_1.bundle"
+        },
+        {
+            "BundleGUID": "f1c5021d29553e6c0fccd045309d94e6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_16.bundle"
+        },
+        {
+            "BundleGUID": "955781dc51c43de6ab953328b05b406e",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_17.bundle"
+        },
+        {
+            "BundleGUID": "145c3f2d098225587a3f8be70e6cfcff",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_17_1.bundle"
+        },
+        {
+            "BundleGUID": "9401f14aabb76e5adb075f20a8307442",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_18.bundle"
+        },
+        {
+            "BundleGUID": "88c5ef32c0477576f87a74abd04ffb35",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_19.bundle"
+        },
+        {
+            "BundleGUID": "a1cd717b7bb81589f75ae18fa9bfd545",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_19_1.bundle"
+        },
+        {
+            "BundleGUID": "03edbdf1152af3a39114663509639cad",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_19_2.bundle"
+        },
+        {
+            "BundleGUID": "39d2724bcb28b0b26758784be09277c5",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_19_3.bundle"
+        },
+        {
+            "BundleGUID": "de5a7acaf01e60f14069c17bb4ce4d7e",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_1_1.bundle"
+        },
+        {
+            "BundleGUID": "b5b628a60bde2c0126bb12a4e2804847",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_1_2.bundle"
+        },
+        {
+            "BundleGUID": "4263e8435defbe116ae7b6b0c6733e3b",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_1_3.bundle"
+        },
+        {
+            "BundleGUID": "6bbffb476473c194e167e703ef9ac96f",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_1_4.bundle"
+        },
+        {
+            "BundleGUID": "996714492009893749855ee64c818afe",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_2.bundle"
+        },
+        {
+            "BundleGUID": "8722f6b2c081217ad9f6afc96f900bbc",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_20.bundle"
+        },
+        {
+            "BundleGUID": "e2da798b1e2634f87d04c03cb8910da7",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_201.bundle"
+        },
+        {
+            "BundleGUID": "2315cd36f32db4ca817f845a74de8ef2",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_202.bundle"
+        },
+        {
+            "BundleGUID": "2d981b902d077297ee7573d2d577a7c4",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_203.bundle"
+        },
+        {
+            "BundleGUID": "72004ddcb1cf276504e0c9e1e11532f6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_204.bundle"
+        },
+        {
+            "BundleGUID": "ef1b1a569f0fbe7ef4359408a22e803f",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_205.bundle"
+        },
+        {
+            "BundleGUID": "0f11dbee0dbc507e20f69ca8ba14de21",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_206.bundle"
+        },
+        {
+            "BundleGUID": "92d646232ceb47a65bc582e149728dae",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_207.bundle"
+        },
+        {
+            "BundleGUID": "08d47a5ac93b36400ffd924e49c39627",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_208.bundle"
+        },
+        {
+            "BundleGUID": "8e31efc9bd5b220fe90c2aba36c86475",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_209.bundle"
+        },
+        {
+            "BundleGUID": "1717875b8565a5ca77e950f4392bdf46",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_210.bundle"
+        },
+        {
+            "BundleGUID": "9ba68c5a60acdb445d24ea485da5261a",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_3.bundle"
+        },
+        {
+            "BundleGUID": "a463d5616c78a5cb6e29d5b9bb3962e4",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_309.bundle"
+        },
+        {
+            "BundleGUID": "c8eca4998d5939e5b1ddee2b12b537bd",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_310.bundle"
+        },
+        {
+            "BundleGUID": "db869572155dfe0eee845e599e8310bc",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_312.bundle"
+        },
+        {
+            "BundleGUID": "1febd3ce22af9e5a0c5697217d45bd48",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_315.bundle"
+        },
+        {
+            "BundleGUID": "a0aafea0cc3fe046300b57c83bf596d3",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_318.bundle"
+        },
+        {
+            "BundleGUID": "270b59d3c476aec3bad4eb33b072f043",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_3_1.bundle"
+        },
+        {
+            "BundleGUID": "60ed66570466823835efb33febb5d1c6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_3_2.bundle"
+        },
+        {
+            "BundleGUID": "b5924d31a80b1be5b669a9250734b0d8",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_3_3.bundle"
+        },
+        {
+            "BundleGUID": "7b5cabd173da4bf7e7f520b776691b2b",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_4.bundle"
+        },
+        {
+            "BundleGUID": "9561255e1b388124fc8a1265c57cd3c5",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_400.bundle"
+        },
+        {
+            "BundleGUID": "68bc40999208a6427b1d3ff96bead6ee",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_401.bundle"
+        },
+        {
+            "BundleGUID": "59e49092e541fd3a9b935091a5926777",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_402.bundle"
+        },
+        {
+            "BundleGUID": "1ff99d1feb6c84e2866c25d253b14a5a",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_403.bundle"
+        },
+        {
+            "BundleGUID": "7d68cb570be792e0f5470b8c0668f205",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_404.bundle"
+        },
+        {
+            "BundleGUID": "7d9e174a4c6df4a2d2a73da4c03171c7",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_405.bundle"
+        },
+        {
+            "BundleGUID": "b63a72666356ffca8334076d73f88bb6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_406.bundle"
+        },
+        {
+            "BundleGUID": "0e61d599faf67047de7783cbd311276d",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_4_1.bundle"
+        },
+        {
+            "BundleGUID": "32e4fb5c33dd208912b66e1b249360e6",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_5.bundle"
+        },
+        {
+            "BundleGUID": "cc75b702cb9f5bf451a1009f4a4d5f22",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_6.bundle"
+        },
+        {
+            "BundleGUID": "105bc4c4f813dc8f8e578cab36a44506",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_7.bundle"
+        },
+        {
+            "BundleGUID": "315586e6531aba6f56c286db71aab529",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_7_1.bundle"
+        },
+        {
+            "BundleGUID": "d21f1f5397bc1954ed468361e828b0cb",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_8.bundle"
+        },
+        {
+            "BundleGUID": "abab0c5f35eac87158d5e8008be034e4",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_8_1.bundle"
+        },
+        {
+            "BundleGUID": "d2940dcb89f91b7d415598a50188f15e",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_8_2.bundle"
+        },
+        {
+            "BundleGUID": "90ca05e9bb525e18f5929506e666cd31",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_9.bundle"
+        },
+        {
+            "BundleGUID": "11c50092f88e3fb8cd32f7fa2efaaec1",
+            "FileName": "defaultpackage_assets_resourcesex_maps_map_9_1.bundle"
+        },
+        {
+            "BundleGUID": "9aaa4adeb91b5e810bc1fa0b5209c48b",
+            "FileName": "defaultpackage_assets_resourcesex_materials.bundle"
+        },
+        {
+            "BundleGUID": "6044a9bd8ec8793f44189463b3967b2c",
+            "FileName": "defaultpackage_assets_resourcesex_prefabs_battle.bundle"
+        },
+        {
+            "BundleGUID": "d65fa6a8a722140bd90d7e4338eaa120",
+            "FileName": "defaultpackage_assets_resourcesex_prefabs_map.bundle"
+        },
+        {
+            "BundleGUID": "32f39d419fbdba251b2610eff07f1a49",
+            "FileName": "defaultpackage_assets_resourcesex_tableres.bundle"
+        },
+        {
+            "BundleGUID": "140070eaf2559511760ebfc8cd967347",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uibag.bundle"
+        },
+        {
+            "BundleGUID": "a87d6051e4b576527cd35cb882063ced",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uibattle.bundle"
+        },
+        {
+            "BundleGUID": "0029de050be04ba44c45144f8897ab2a",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uibattlearray.bundle"
+        },
+        {
+            "BundleGUID": "ac34456917a986811f36c0711d2ce0da",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uibattleground.bundle"
+        },
+        {
+            "BundleGUID": "656ea77cb0283a80939f9388d45b2bef",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiboss.bundle"
+        },
+        {
+            "BundleGUID": "31111bee67bef97bf7b5511ff4581267",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uicook.bundle"
+        },
+        {
+            "BundleGUID": "aaa34700d5611ef38c667d39fbe73a2f",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uieconomic.bundle"
+        },
+        {
+            "BundleGUID": "a12deb54446943c30d257a6ed8960beb",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uienroll.bundle"
+        },
+        {
+            "BundleGUID": "a87de2344d56d38c3003fa1e45d7526f",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiexplore.bundle"
+        },
+        {
+            "BundleGUID": "db2ad55dbf0ed6e6d81f33cce0514045",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uifireroad.bundle"
+        },
+        {
+            "BundleGUID": "f8cb3b8cd1b65628072cc18f54fedfab",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uigrowup.bundle"
+        },
+        {
+            "BundleGUID": "c44a0972898fa56aff19dc5a25bacdca",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiherogong.bundle"
+        },
+        {
+            "BundleGUID": "e5087cbb33bd3c658a3f4bb96c4b609f",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiheroinfo.bundle"
+        },
+        {
+            "BundleGUID": "1c74cdbf6b141b60614f768769440138",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiherorise.bundle"
+        },
+        {
+            "BundleGUID": "515a04000265ea16b81986a5c5638cd7",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiherotravel.bundle"
+        },
+        {
+            "BundleGUID": "ddf5778080388eee2fb14e5e8a146b69",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiinput.bundle"
+        },
+        {
+            "BundleGUID": "8a5f77fc8f8de06fdc23c83e64033552",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiloading.bundle"
+        },
+        {
+            "BundleGUID": "81761c6b406f708d21aecc5b0ed8add9",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uimainbg.bundle"
+        },
+        {
+            "BundleGUID": "df1f096fc30a94482b1b2ef31461529a",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uimainpage.bundle"
+        },
+        {
+            "BundleGUID": "525be1c916ac13bd0529a9f56d92a76b",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uimap.bundle"
+        },
+        {
+            "BundleGUID": "a1c87108d6e4862835c520b8253fb144",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uimessagetip.bundle"
+        },
+        {
+            "BundleGUID": "b83150ac1fc627903747b61bd2310de9",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uipageturn.bundle"
+        },
+        {
+            "BundleGUID": "a5cf7effbe96a03775efda1c53d462bc",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiplayer.bundle"
+        },
+        {
+            "BundleGUID": "3e686a60536a05d208587d0b8d45434b",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uipractice.bundle"
+        },
+        {
+            "BundleGUID": "845513ff626c847888449eb30dd79697",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiprogress.bundle"
+        },
+        {
+            "BundleGUID": "2c4089abb0c2883ee8d55e84c984af21",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uipub.bundle"
+        },
+        {
+            "BundleGUID": "746aec6dad771226d545a91998552e4d",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uirecharge.bundle"
+        },
+        {
+            "BundleGUID": "ba7b1ee10eda726c1a05994c978d2e66",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uireward.bundle"
+        },
+        {
+            "BundleGUID": "e5a77d5930e66e696de629370150d874",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uisetting.bundle"
+        },
+        {
+            "BundleGUID": "61277080812547635c2d6e464f3fd2c1",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uishop.bundle"
+        },
+        {
+            "BundleGUID": "3b90074c129498a7d0765a8299b4a17b",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiskill.bundle"
+        },
+        {
+            "BundleGUID": "36ecc2118c9e28d72215d01dabb7112c",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uistory.bundle"
+        },
+        {
+            "BundleGUID": "589ad5ca6cfddc8ccaeeb7048e8287e7",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiswitchskin.bundle"
+        },
+        {
+            "BundleGUID": "adbe355c76af561e580005e504a8d351",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uitask.bundle"
+        },
+        {
+            "BundleGUID": "0d3c6cf4d8e1acdc9972423d9f71f28f",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiwelfare.bundle"
+        },
+        {
+            "BundleGUID": "0f8a6910b0884c096fbcec78c230c330",
+            "FileName": "defaultpackage_assets_resourcesex_uiprefabs_uiworldmap.bundle"
+        },
+        {
+            "BundleGUID": "b7e3626a8b0a3ded3a0bf91c0ce972bb",
+            "FileName": "defaultpackage_assets_resourcesex_uis_chipicon.bundle"
+        },
+        {
+            "BundleGUID": "87c1dde2907483aaa2790f2995e37ed3",
+            "FileName": "defaultpackage_assets_resourcesex_uis_chipicon2.bundle"
+        },
+        {
+            "BundleGUID": "a8be8659e5f83552e9bdb867fbb9c6d1",
+            "FileName": "defaultpackage_assets_resourcesex_uis_headicon.bundle"
+        },
+        {
+            "BundleGUID": "2e4fdd9d94682fcbb023b4f69eab78a1",
+            "FileName": "defaultpackage_assets_resourcesex_uis_headicon2.bundle"
+        },
+        {
+            "BundleGUID": "d73ab20c31cf167b2d41ac0d6f4fc9d0",
+            "FileName": "defaultpackage_assets_resourcesex_uis_itemicon.bundle"
+        },
+        {
+            "BundleGUID": "7201a027c8b02437c59f988ded94782c",
+            "FileName": "defaultpackage_assets_resourcesex_uis_itemicon2.bundle"
+        },
+        {
+            "BundleGUID": "c28130e0ff0142d2864cd34362dbb1d9",
+            "FileName": "defaultpackage_assets_resourcesex_uis_itemicon3.bundle"
+        },
+        {
+            "BundleGUID": "976e167e2f32845f29f5ac4b5f80b15c",
+            "FileName": "defaultpackage_assets_resourcesex_uis_itemicon4.bundle"
+        },
+        {
+            "BundleGUID": "1777ddc7b30f8545f1d333b7170648d9",
+            "FileName": "defaultpackage_assets_resourcesex_uis_kuangshi.bundle"
+        },
+        {
+            "BundleGUID": "ce2370d376eebd6eedb4186bf9440f4b",
+            "FileName": "defaultpackage_assets_resourcesex_uis_skillicon.bundle"
+        },
+        {
+            "BundleGUID": "bdfe62a4b980757ba55ca2cf80f529eb",
+            "FileName": "defaultpackage_assets_resourcesex_uis_skillicon2.bundle"
+        },
+        {
+            "BundleGUID": "2000313c9c019fd1cd1bad303abf0ac8",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uiatlas.bundle"
+        },
+        {
+            "BundleGUID": "f1defb57e839eac42a552246442232d8",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uiatlas2.bundle"
+        },
+        {
+            "BundleGUID": "ad73975af5bcad3ab39786c55ebbcaa0",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uiatlas3.bundle"
+        },
+        {
+            "BundleGUID": "4091ccad4da6e92d27a71523752ab88e",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uiatlas4.bundle"
+        },
+        {
+            "BundleGUID": "042dc32a06e71943d26b8ab1ff1d84c9",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uiatlas5.bundle"
+        },
+        {
+            "BundleGUID": "3bb7f5c0184950dd2554f47c10f6cf01",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uiatlas7.bundle"
+        },
+        {
+            "BundleGUID": "ad9168d54dba46b6a922e2303f238633",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uigem.bundle"
+        },
+        {
+            "BundleGUID": "78f20804f1502a046d8356a564b1efea",
+            "FileName": "defaultpackage_assets_resourcesex_uis_uirecharge.bundle"
+        },
+        {
+            "BundleGUID": "b57cfc573bca2c9965f1469d52180bc1",
+            "FileName": "defaultpackage_assets_resourcesex_uisprites_common.bundle"
+        },
+        {
+            "BundleGUID": "e4e433d0037f6e875b210de857e9c52f",
+            "FileName": "defaultpackage_assets_resourcesex_uisprites_halficon.bundle"
+        },
+        {
+            "BundleGUID": "0928e37ab61ec9ab2ecb024a52fa1af9",
+            "FileName": "defaultpackage_assets_resourcesex_uisprites_kunfu.bundle"
+        },
+        {
+            "BundleGUID": "691cc46c112239db51b7b235f9cf9398",
+            "FileName": "defaultpackage_assets_resourcesex_uisprites_mapbg.bundle"
+        },
+        {
+            "BundleGUID": "ed595e630dab10c4ffbe798906f0db77",
+            "FileName": "defaultpackage_assets_resourcesex_uisprites_uitex.bundle"
+        },
+        {
+            "BundleGUID": "83724cc692514d4e03ef704bdf33af33",
+            "FileName": "defaultpackage_share_assets_3rdparty_touchcontrolskit-lite_content_sprites.bundle"
+        },
+        {
+            "BundleGUID": "bd8b1bcf8edd57b613c41f2f83ad98a8",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffbleeding.bundle"
+        },
+        {
+            "BundleGUID": "f03e07ecbab11865f1728936b8644972",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffblind.bundle"
+        },
+        {
+            "BundleGUID": "b42efffbeef6298d35fba3f9c35e41f8",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffburning.bundle"
+        },
+        {
+            "BundleGUID": "696ca4d07482754958a2d821f600042f",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffdizzy.bundle"
+        },
+        {
+            "BundleGUID": "e69d125d5fde431f89723ac94a2f9468",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_bufffreeze.bundle"
+        },
+        {
+            "BundleGUID": "74a4180d97af5b01851776802967070d",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffjoked.bundle"
+        },
+        {
+            "BundleGUID": "a393f6149e1ee0906b8a67c7f663c177",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_bufflosehit.bundle"
+        },
+        {
+            "BundleGUID": "2b78157713c460aa5bb2f5961134c50e",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffmess.bundle"
+        },
+        {
+            "BundleGUID": "76ea0583723a9600edd3b98e0a8468ac",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffparalysis.bundle"
+        },
+        {
+            "BundleGUID": "1f5cb1479a083cc958fc6f3a4d99a8ac",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffpointhole.bundle"
+        },
+        {
+            "BundleGUID": "6cee08a25036138cb907e195e2cfe62a",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffpoisoning.bundle"
+        },
+        {
+            "BundleGUID": "311bd48a2d908bd758679b7da5b11a29",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffsleep.bundle"
+        },
+        {
+            "BundleGUID": "00b9497601d91e5cd715e55cb39bc8f7",
+            "FileName": "defaultpackage_share_assets_data_fx_buff_buffweak.bundle"
+        },
+        {
+            "BundleGUID": "8e6bfa7f8694581b8253a462eca239df",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_bosstx_conjure.bundle"
+        },
+        {
+            "BundleGUID": "2ec644aa3d9045bd9fd80b8992a36799",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_common_chase.bundle"
+        },
+        {
+            "BundleGUID": "e5b1c9b2b70a254d239b87b30e5e292d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_common_common_hit.bundle"
+        },
+        {
+            "BundleGUID": "605da734024f4083b174b19f32716191",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_common_zhansha.bundle"
+        },
+        {
+            "BundleGUID": "75a3faa460f9aca1b066b83ab3663a3a",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_kunfufx_83001.bundle"
+        },
+        {
+            "BundleGUID": "7c04ac552aec0f94cf8e105d5af152c6",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_kunfufx_83002.bundle"
+        },
+        {
+            "BundleGUID": "c46fdd35f56298af9896aa7f2adf0ae5",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_kunfufx_83003.bundle"
+        },
+        {
+            "BundleGUID": "dc278e07eb59778a6015c64b50d15a0e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_kunfufx_83004.bundle"
+        },
+        {
+            "BundleGUID": "ec1301eb114a42ee0c40854cc0049403",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_kunfufx_83005.bundle"
+        },
+        {
+            "BundleGUID": "4d2061fe2f47a99d617f2660a1c6f93b",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao000_conjure.bundle"
+        },
+        {
+            "BundleGUID": "ee70a9bd616823af8b0acf21ec31b1a7",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao000_fly.bundle"
+        },
+        {
+            "BundleGUID": "f8be67a8ee87a0aca8f88a92009a374d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao000_hit.bundle"
+        },
+        {
+            "BundleGUID": "c7f3ec01c8317b5e083d2adf79b079bd",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao001_conjure.bundle"
+        },
+        {
+            "BundleGUID": "6ff2416da058fb795604178bca2de868",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao001_hit.bundle"
+        },
+        {
+            "BundleGUID": "36f3992255212dfbdc59430d902cd2f3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao002_conjure.bundle"
+        },
+        {
+            "BundleGUID": "5822d411edc1558d25fccbdca0044fcd",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao002_hit.bundle"
+        },
+        {
+            "BundleGUID": "f5822b0702e77e56717613c9f7d6335d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao003_conjure.bundle"
+        },
+        {
+            "BundleGUID": "ae14369a5d41dbc349f20d0eec338715",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao003_fly.bundle"
+        },
+        {
+            "BundleGUID": "e58c536abeffa8040e8af04da32a8cec",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao003_gongji.bundle"
+        },
+        {
+            "BundleGUID": "8fed69635d0bc30fa93c7d8ddca6d497",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao003_hit.bundle"
+        },
+        {
+            "BundleGUID": "88223f3e0934b408b57cdee955734964",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao004_conjure.bundle"
+        },
+        {
+            "BundleGUID": "5840f34318b6392812c23df5e0e7acdc",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao004_hit.bundle"
+        },
+        {
+            "BundleGUID": "c323f3109a4396473446588c657412d2",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao005_conjure.bundle"
+        },
+        {
+            "BundleGUID": "cb8a5b62f4bed88009cb65d20aee4024",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao005_hit.bundle"
+        },
+        {
+            "BundleGUID": "7fd89eac3292fc2e8d704fcd79fc14eb",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao006_conjure.bundle"
+        },
+        {
+            "BundleGUID": "3e84d0f6c89e6ee2bddac55ffbd2114e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao006_gongji.bundle"
+        },
+        {
+            "BundleGUID": "99265516da2d37655eccb649d43b7402",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao006_hit.bundle"
+        },
+        {
+            "BundleGUID": "6dbc757d8d03982c77ee328a3c7e1872",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao006_hit2.bundle"
+        },
+        {
+            "BundleGUID": "b3f14a055c785b6b94ad3a77cdee020a",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao007_conjure.bundle"
+        },
+        {
+            "BundleGUID": "9549721c38e032ccbdaee4346b1400bb",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao007_hit.bundle"
+        },
+        {
+            "BundleGUID": "acacd7a8ffd9364699fa6d1e206dfb51",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao008_conjure.bundle"
+        },
+        {
+            "BundleGUID": "8b0711881127564e328b8b059a4413f1",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao008_hit.bundle"
+        },
+        {
+            "BundleGUID": "85230dd285240540342a281ccc0dbf41",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao009_conjure.bundle"
+        },
+        {
+            "BundleGUID": "c4246ae3b7a395cf438d79a896e08916",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao009_hit.bundle"
+        },
+        {
+            "BundleGUID": "ff711a3d6b84a201cd94b732e1c7881e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao010_conjure.bundle"
+        },
+        {
+            "BundleGUID": "9f816b1574e6bd7de9ac87e245f74d27",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao010_gongji.bundle"
+        },
+        {
+            "BundleGUID": "455a3fee8901de12b9e2eba349461a30",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao010_hit.bundle"
+        },
+        {
+            "BundleGUID": "c3d5689067a919f19d13316dd32f428e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao011_conjure.bundle"
+        },
+        {
+            "BundleGUID": "0ae91f47ab3211eb9656e5fcf883acb4",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao011_fly.bundle"
+        },
+        {
+            "BundleGUID": "5a741f1d41993f568bd70e0f793fdf19",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao011_hit.bundle"
+        },
+        {
+            "BundleGUID": "ef06bd4b333fdd530a449bbae6ebaa89",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao011_zhuida.bundle"
+        },
+        {
+            "BundleGUID": "b54273570f05a8722a2bcd5904390660",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao012_conjure.bundle"
+        },
+        {
+            "BundleGUID": "725320154e8e59c51f3c64fd64e613ea",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao012_hit.bundle"
+        },
+        {
+            "BundleGUID": "769e1f9301ed806805899d9e6496d987",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao013_conjure.bundle"
+        },
+        {
+            "BundleGUID": "1c43f9752f4a1a62594f954418c4f8bf",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao013_hit.bundle"
+        },
+        {
+            "BundleGUID": "756e299bad54a6735f9f18d519954e11",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao014_conjure.bundle"
+        },
+        {
+            "BundleGUID": "98ed2301be5074dac0051736244da938",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao014_gongji.bundle"
+        },
+        {
+            "BundleGUID": "68447c4dd19acbe11969e84e8dfec1a2",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao014_hit.bundle"
+        },
+        {
+            "BundleGUID": "ade0a1936011a7bd9cfbede03f5b4c29",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao015_conjure.bundle"
+        },
+        {
+            "BundleGUID": "3f9a0c50e3618403c75a2582c159fce3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao015_hit.bundle"
+        },
+        {
+            "BundleGUID": "e40d6f90527858e84ed0ae13499ad97e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao016_conjure.bundle"
+        },
+        {
+            "BundleGUID": "5ee923425dc9d67b1f1378c33770d81e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao016_fly.bundle"
+        },
+        {
+            "BundleGUID": "e5cc9d3e28674e630aa8a2650cd15b36",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao016_hit.bundle"
+        },
+        {
+            "BundleGUID": "fdf9313f9526dc95b7314bc263b2fc61",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao017_conjure.bundle"
+        },
+        {
+            "BundleGUID": "94103c15722a2bd31f6e634a079ad2bd",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao017_gongji.bundle"
+        },
+        {
+            "BundleGUID": "6ea2e4b161a560f40e3bfe58bbdc1289",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao017_hit.bundle"
+        },
+        {
+            "BundleGUID": "1e19c8f29feeca68d28204f77429fed9",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao018_conjure.bundle"
+        },
+        {
+            "BundleGUID": "5dd6019f558af7026f005d3abd406af3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao018_hit.bundle"
+        },
+        {
+            "BundleGUID": "3fbafaafaf03eee5e878e701794af098",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao019_conjure.bundle"
+        },
+        {
+            "BundleGUID": "cad97354d5d3582ee7191828e158814d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao019_gongji.bundle"
+        },
+        {
+            "BundleGUID": "88f6c66b36fc3eefaa5634dcb2c9b45f",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao019_hit.bundle"
+        },
+        {
+            "BundleGUID": "51d0768196b7e164c4f157e85a9c6dde",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao020_conjure.bundle"
+        },
+        {
+            "BundleGUID": "1218d30809e72e8079671f385636baa0",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao020_hit.bundle"
+        },
+        {
+            "BundleGUID": "5e51ba41d2879f4a914e0b97cbfd4436",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao021_conjure.bundle"
+        },
+        {
+            "BundleGUID": "bb1b1cc967c3257ba42e233e44ee4f85",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao021_gongji.bundle"
+        },
+        {
+            "BundleGUID": "f35d3289f34ad6680dc60a087d449c0d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao021_hit.bundle"
+        },
+        {
+            "BundleGUID": "b6a61af86a24cef8b59d12120f2ee7b2",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao021_hit2.bundle"
+        },
+        {
+            "BundleGUID": "856ffe830da705268c0e22261c44cda6",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao022_conjure.bundle"
+        },
+        {
+            "BundleGUID": "f33ba8a1392947a57ddb28da9bad04f0",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao022_gongji.bundle"
+        },
+        {
+            "BundleGUID": "f788df6f4e0cb4be1ebc3ef0866f8a8c",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao022_hit.bundle"
+        },
+        {
+            "BundleGUID": "1130bf72dd5f9ca282c3befd324ebd71",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao023_conjure.bundle"
+        },
+        {
+            "BundleGUID": "f73e0b94daba42a82a74bb64917282ba",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao023_hit.bundle"
+        },
+        {
+            "BundleGUID": "9e654805fb9a52d297ba69773cd48a5d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao024_conjure.bundle"
+        },
+        {
+            "BundleGUID": "475fc809608a083619997cce5d2d2388",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao024_gongji.bundle"
+        },
+        {
+            "BundleGUID": "de1cf7120fa6bf276ef23550a839b765",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao024_hit.bundle"
+        },
+        {
+            "BundleGUID": "c989e6cd130d8067fc1b4de360dab6d7",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_conjure.bundle"
+        },
+        {
+            "BundleGUID": "3dac5b6ceee2a78371cc11a5f2118716",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_fly.bundle"
+        },
+        {
+            "BundleGUID": "c6eb5bbec2a0f23a611f7cf7a4cba41e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_gongji_conjure.bundle"
+        },
+        {
+            "BundleGUID": "f8d9dd0d58b5e7e21c9bc8d973b0d952",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_gongji_fly.bundle"
+        },
+        {
+            "BundleGUID": "9d91ec12078d5ba5ced6790ecce576c8",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_gongji_hit.bundle"
+        },
+        {
+            "BundleGUID": "973cb95caaf5bf64a5aa971685c529c3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_hit.bundle"
+        },
+        {
+            "BundleGUID": "a6aa261e00fd8ecc01b937b96f791174",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao025_zhuida_hit.bundle"
+        },
+        {
+            "BundleGUID": "1a597ed01681595c9ace21f6c34d3192",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao026_conjure.bundle"
+        },
+        {
+            "BundleGUID": "a892505500101273af7b76cf36997f65",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao026_gongji.bundle"
+        },
+        {
+            "BundleGUID": "bc696ecc0ef3a0277951fd738164a6ee",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao026_hit.bundle"
+        },
+        {
+            "BundleGUID": "ff1ec67bf1cecfc144ab7f0db0580c49",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao027_conjure.bundle"
+        },
+        {
+            "BundleGUID": "1c9a3148a0bf8529c127ad776356d342",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao027_hit.bundle"
+        },
+        {
+            "BundleGUID": "96be32d21448623f9dcb2d5f6ca843b7",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao028_conjure.bundle"
+        },
+        {
+            "BundleGUID": "8aac6a65f204a849bf92b21e0de7d38f",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao028_fly.bundle"
+        },
+        {
+            "BundleGUID": "88ccafa73881fdaa34bcdd07d567fc83",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao028_hit.bundle"
+        },
+        {
+            "BundleGUID": "e00ccd93fe55dafd3a3d3a91783ddd9b",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao029_conjure.bundle"
+        },
+        {
+            "BundleGUID": "d97a29d527c2b63921ea2b765fffa03e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao029_hit.bundle"
+        },
+        {
+            "BundleGUID": "98806c59d3c7f6d09fd728790529f466",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao030_conjure.bundle"
+        },
+        {
+            "BundleGUID": "d187784084922c0cf45748838df681fe",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao030_hit.bundle"
+        },
+        {
+            "BundleGUID": "ba97709f05dbe75e15a2353fe24a5b79",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao031_conjure.bundle"
+        },
+        {
+            "BundleGUID": "8f57ee26d0e29f0bfcd17f3fb701f278",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao031_hit.bundle"
+        },
+        {
+            "BundleGUID": "4d4362525871a47d3b26e10cdad8d293",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao032_conjure.bundle"
+        },
+        {
+            "BundleGUID": "a0c90c580d1aa124252c76d9b98640f3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao032_hit.bundle"
+        },
+        {
+            "BundleGUID": "beea136b4d2cc0b92e668340e4bf5b3e",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao033_conjure.bundle"
+        },
+        {
+            "BundleGUID": "69fbae2e76dcbca59dd29be51dc8f7d7",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao033_hit.bundle"
+        },
+        {
+            "BundleGUID": "3ab89d1487415360459d1f9b88758b26",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao034_conjure.bundle"
+        },
+        {
+            "BundleGUID": "2a5c5f3c78f519f8e97646dfefada68a",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao034_fly.bundle"
+        },
+        {
+            "BundleGUID": "1f6bfa993dbe82fc1fe304055c5a5f07",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao034_hit.bundle"
+        },
+        {
+            "BundleGUID": "593cb76e545138631103c7fbf0b7acef",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao035_conjure.bundle"
+        },
+        {
+            "BundleGUID": "e7a98ebfed12d03c34df970937213fc3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao035_hit.bundle"
+        },
+        {
+            "BundleGUID": "1b512423aae9d9501385284c9178a60d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao036_conjure.bundle"
+        },
+        {
+            "BundleGUID": "704cc87888e4d8e674f0fc9e453d9903",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao036_hit.bundle"
+        },
+        {
+            "BundleGUID": "25ede7f1fcf7bd8a02be5fa6eeb035ba",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao037_conjure.bundle"
+        },
+        {
+            "BundleGUID": "aab02a5359bae1b5fb98231d52c6c2c5",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao038_conjure.bundle"
+        },
+        {
+            "BundleGUID": "ee268f1f60681d468fb7012f63680c9a",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao039_loop.bundle"
+        },
+        {
+            "BundleGUID": "4b27ff8a1f3a58174f93a54cdcc8eb83",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao040_conjure.bundle"
+        },
+        {
+            "BundleGUID": "824e18153c19fb95cfbf7ffc42bfe57d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao040_fly.bundle"
+        },
+        {
+            "BundleGUID": "f3663a695a4fd909ad06727ae5014cfa",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao040_loop.bundle"
+        },
+        {
+            "BundleGUID": "e6f61cc1ce1e6390689a0fec883873fc",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao041_conjure.bundle"
+        },
+        {
+            "BundleGUID": "4cd0a6af0b011a041387da508aad31a9",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao042_conjure.bundle"
+        },
+        {
+            "BundleGUID": "d2825ef5b6229b44e84e173b1b31e078",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao043_conjure.bundle"
+        },
+        {
+            "BundleGUID": "07f996603eecab0c4e864f1f70a0d763",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao044_conjure.bundle"
+        },
+        {
+            "BundleGUID": "f5ad8c44ddc6caa6219737ef08cbe743",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao044_hit.bundle"
+        },
+        {
+            "BundleGUID": "c0c1936b70ef61a0698c6144c09312a2",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao045_hit.bundle"
+        },
+        {
+            "BundleGUID": "bf89fc3b946a07c872e9ba539baa86f8",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao045_loop.bundle"
+        },
+        {
+            "BundleGUID": "8a21f4d29f0b68262d429baf126f4e70",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao046_conjure.bundle"
+        },
+        {
+            "BundleGUID": "3d64addeafe2232757b2a26538e65bc4",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao046_hit.bundle"
+        },
+        {
+            "BundleGUID": "c5c13f3c07691fa89a4ec93dd2a3f317",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao062_conjure.bundle"
+        },
+        {
+            "BundleGUID": "ccf2de7f0375b9e379eda0d2641356bf",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao063_conjure.bundle"
+        },
+        {
+            "BundleGUID": "66e7880c1732f8ec2d069199ec5cf163",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao063_fly.bundle"
+        },
+        {
+            "BundleGUID": "53f5b6b006a5406749055a531ab74d58",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao063_hit.bundle"
+        },
+        {
+            "BundleGUID": "23e2141ee6e618823a54b8e30ada4421",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao063_loop.bundle"
+        },
+        {
+            "BundleGUID": "594b326b065f84dcbab83dccb6aa4443",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_conjure.bundle"
+        },
+        {
+            "BundleGUID": "c5970f0ff1d1bddf105cb29d385713cc",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_hit.bundle"
+        },
+        {
+            "BundleGUID": "61e9e012bf3ca92339dd9901e8d75505",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_hit1.bundle"
+        },
+        {
+            "BundleGUID": "125496d0b8f4a3cb113c81d452cf6a7c",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_hit2.bundle"
+        },
+        {
+            "BundleGUID": "c76dd6edf629447d0e5da8becd4ea98f",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_hit3.bundle"
+        },
+        {
+            "BundleGUID": "d9203bc2dd4059a22ac00a65b0a7a6ab",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_hit4.bundle"
+        },
+        {
+            "BundleGUID": "df830570911e5dfcfa106a6f788cc060",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao065_loop.bundle"
+        },
+        {
+            "BundleGUID": "f5255c3d12f820db54b8465e4f8a26c7",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao066_aoyi_1.bundle"
+        },
+        {
+            "BundleGUID": "ed8e31b2e0152a22fb41965446b20c1b",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao066_hit_1.bundle"
+        },
+        {
+            "BundleGUID": "f37075db3deb5dafa65c2d15592d8026",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao066_role_loop.bundle"
+        },
+        {
+            "BundleGUID": "460f16ec97fd0804925587c73dea292f",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao066_zhuida_1.bundle"
+        },
+        {
+            "BundleGUID": "63d023e6437c09fb9c15daa0b0564375",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao067_aoyi_1.bundle"
+        },
+        {
+            "BundleGUID": "215a7ba5fbba723425cc94e050b6b9d2",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao067_hit_1.bundle"
+        },
+        {
+            "BundleGUID": "032f1c3b47dc3c3f800aaa3a2dcf5833",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao067_role_loop.bundle"
+        },
+        {
+            "BundleGUID": "06b8f2615d56aa5d87674443f1f085e0",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_2_conjure.bundle"
+        },
+        {
+            "BundleGUID": "7e5ab74aeba693cf9b4d90e12e8674ae",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_3_conjure.bundle"
+        },
+        {
+            "BundleGUID": "55ac1283d46361fc5cbd96b9f89c77d3",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_4_conjure.bundle"
+        },
+        {
+            "BundleGUID": "a5ccd3b9cf7b992b8028044354453c53",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_5_conjure.bundle"
+        },
+        {
+            "BundleGUID": "e7c97f83b1bde04c98b0a2b360515f38",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_5_hit.bundle"
+        },
+        {
+            "BundleGUID": "df2530c11af751e20567ab2f3777e284",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_6_conjure.bundle"
+        },
+        {
+            "BundleGUID": "e39d2e63d25756a9f288175e73a4c8e6",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_gongji_6_hit.bundle"
+        },
+        {
+            "BundleGUID": "bcc6288d616300c26a444fa5940a1106",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_1_conjure.bundle"
+        },
+        {
+            "BundleGUID": "46fe2823dd4327db8c862daf9668d1b4",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_1_hit.bundle"
+        },
+        {
+            "BundleGUID": "79f573bb983c773c7d89f4725528120f",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_2_conjure.bundle"
+        },
+        {
+            "BundleGUID": "6e080020f6829aa56079fdea06c4fd51",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_2_fly.bundle"
+        },
+        {
+            "BundleGUID": "fac80d5b7df1b2ee2c354b650716de7d",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_2_hit.bundle"
+        },
+        {
+            "BundleGUID": "67838ad69eb1d9220ddd644527cbc91a",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_3_conjure.bundle"
+        },
+        {
+            "BundleGUID": "15265d96ce3d357198a29ad46abbd431",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_4_conjure.bundle"
+        },
+        {
+            "BundleGUID": "f0771e3919ec2bb42581b96df4c1a63c",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_4_hit.bundle"
+        },
+        {
+            "BundleGUID": "1a4366a2096b235adfeb6750623ca6c6",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_5_conjure.bundle"
+        },
+        {
+            "BundleGUID": "c76453cd1dfb5ab0afdfc3f1e9eacac7",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_5_hit.bundle"
+        },
+        {
+            "BundleGUID": "957495facc840e08cc7511bdfbff0821",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_6_conjure.bundle"
+        },
+        {
+            "BundleGUID": "dd79ade2155a3a27fef6c47ea8092c6a",
+            "FileName": "defaultpackage_share_assets_data_fx_jntexiao_texiao_zhujue_jineng_6_hit.bundle"
+        },
+        {
+            "BundleGUID": "84491c23fdcfcdeedde79d18440f224b",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_bluefire.bundle"
+        },
+        {
+            "BundleGUID": "ad34ee4847bed6793bdec6703f4b1953",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_bluelight.bundle"
+        },
+        {
+            "BundleGUID": "cb3d13831df8ee5fd32219a7c5e9bf4a",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_choosetgt.bundle"
+        },
+        {
+            "BundleGUID": "0e9e8b2aedfbc24c8df1292edc217712",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_chuansongzhen.bundle"
+        },
+        {
+            "BundleGUID": "d63ef86fe59fdd180ba7a2e4d9e4d8a2",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_dazuo.bundle"
+        },
+        {
+            "BundleGUID": "c1922fc2860902053508aa51c3815cf5",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_dianji.bundle"
+        },
+        {
+            "BundleGUID": "676996991657ec7692298759e0f3981b",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_feng.bundle"
+        },
+        {
+            "BundleGUID": "891c5c66298f3c359289daf1feaad4cc",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_fengyin.bundle"
+        },
+        {
+            "BundleGUID": "ae2a3b944afbbdc13dc7676ea34c9f67",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_firering.bundle"
+        },
+        {
+            "BundleGUID": "658a74e46552335ff7e389e830572869",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_flash.bundle"
+        },
+        {
+            "BundleGUID": "84061b0f8db1cc4fafe73ed3a1bfe773",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_flower.bundle"
+        },
+        {
+            "BundleGUID": "30bf8ca9f63d33339d7f4bb363173fe5",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_loopbossfx.bundle"
+        },
+        {
+            "BundleGUID": "e8b7a1a033960c0ebe13ebea2d03b14a",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_randombuff.bundle"
+        },
+        {
+            "BundleGUID": "68a7a81e2edfb366462048e8f2c19b60",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_taskcomplete.bundle"
+        },
+        {
+            "BundleGUID": "7dc73c4fc8d2094252005bd29a5e42d3",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_tasknocomplete.bundle"
+        },
+        {
+            "BundleGUID": "492279bfe0bba724b6a79069729b5ec7",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_tiaoyuedian.bundle"
+        },
+        {
+            "BundleGUID": "aedc22b823350c0004cffaea7cd51048",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_wind.bundle"
+        },
+        {
+            "BundleGUID": "878ccc24befe9470bc653416e041f2bf",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_xingguang.bundle"
+        },
+        {
+            "BundleGUID": "406323987efed07ec0eb148badb192a9",
+            "FileName": "defaultpackage_share_assets_data_fx_texiao_xixingdafa.bundle"
+        },
+        {
+            "BundleGUID": "58ae085f40bff4608ab726267fc5ce7b",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_bling.bundle"
+        },
+        {
+            "BundleGUID": "c8c86afc32ad0685d4d042adf32e85fc",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_castskill.bundle"
+        },
+        {
+            "BundleGUID": "93827a6e7887e6f46e07ddf4ad952779",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_danlu1.bundle"
+        },
+        {
+            "BundleGUID": "b1fd6be6b3f3fd4fb2eabbf37f9a82e6",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_danlu2.bundle"
+        },
+        {
+            "BundleGUID": "cbb950d9d672acb5e7a71e966b81de47",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_dice.bundle"
+        },
+        {
+            "BundleGUID": "e33ea909ad450be7c4ef355eda54b243",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_downarray.bundle"
+        },
+        {
+            "BundleGUID": "49bccddd937abe8db847ce09a7a80c49",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_enhance.bundle"
+        },
+        {
+            "BundleGUID": "0ae799fffa27c4186c34f2f348e36f71",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_enroll.bundle"
+        },
+        {
+            "BundleGUID": "dee722d51823e72d9a85c9b9de84516c",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_equipcolor.bundle"
+        },
+        {
+            "BundleGUID": "be423c8978e95b50666e79c3aa642b38",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_equiporange.bundle"
+        },
+        {
+            "BundleGUID": "4055cd895f35427a93feff9b8fcb1b4e",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_equipred.bundle"
+        },
+        {
+            "BundleGUID": "67efd7d6905225b20353838400c67dca",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_firstrecharge.bundle"
+        },
+        {
+            "BundleGUID": "204de808760f692575d7913171940575",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_fourtfx.bundle"
+        },
+        {
+            "BundleGUID": "d37236dabf04a18c7f50a8fcc574205f",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_guide.bundle"
+        },
+        {
+            "BundleGUID": "e3a04ad9afbd995e0674d6878ccc5433",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_inherit.bundle"
+        },
+        {
+            "BundleGUID": "e37335e3d237c68943c8a2239b798f47",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie1.bundle"
+        },
+        {
+            "BundleGUID": "4dc7c932cb73c536cfebcb9fe509eb6d",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie2.bundle"
+        },
+        {
+            "BundleGUID": "7162e4ae548c1f930fbe14b055d9d0b5",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie3.bundle"
+        },
+        {
+            "BundleGUID": "551c864eaa50cc766ea763985f583c30",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie4.bundle"
+        },
+        {
+            "BundleGUID": "4b3925914d5f8de80ed07d5c7bcad762",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie5.bundle"
+        },
+        {
+            "BundleGUID": "49e761a6015608ca6dab08d2ba23f8ea",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie6.bundle"
+        },
+        {
+            "BundleGUID": "66142c209b4c9f40a0295952b31232ee",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie7.bundle"
+        },
+        {
+            "BundleGUID": "88276abf419c03115dbe874723bd2d16",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie8.bundle"
+        },
+        {
+            "BundleGUID": "f497d2bbf05071b387b47afb1bca32ff",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingjie9.bundle"
+        },
+        {
+            "BundleGUID": "d95195d357457199909798dadbd99690",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_jingxibox_loop.bundle"
+        },
+        {
+            "BundleGUID": "14fa2abdef962e6afcb009af31685f5d",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_levelup.bundle"
+        },
+        {
+            "BundleGUID": "fbd29f7882ffa597cbd1aa2d18bb03f5",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_online.bundle"
+        },
+        {
+            "BundleGUID": "ac580f1df64cbd5a2d00432b30934f21",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_rongzhu.bundle"
+        },
+        {
+            "BundleGUID": "edd97efcc58be598778d57a5db5132a9",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_seal.bundle"
+        },
+        {
+            "BundleGUID": "8d7875a334023f7cecac5da7257305d0",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_selectitem.bundle"
+        },
+        {
+            "BundleGUID": "12c702a1fc0f23707a456b29f81851e4",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_selectpos.bundle"
+        },
+        {
+            "BundleGUID": "f9d06a812f25053b332b6e85934e7605",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_selectrole.bundle"
+        },
+        {
+            "BundleGUID": "860859035a02d7edf5e6fe4cc3f42fb8",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_shenghua.bundle"
+        },
+        {
+            "BundleGUID": "9fd3c8a2fd73cea63be83bfce20bf1cb",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_shensuccess.bundle"
+        },
+        {
+            "BundleGUID": "ecaee6df2392fddb3fad948b5ee054b5",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_taskcompletetip.bundle"
+        },
+        {
+            "BundleGUID": "325ccb625ceae7bf2ee0cee951544dff",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_treasurebox1.bundle"
+        },
+        {
+            "BundleGUID": "636c0e807e9292b98df51a953dae1f33",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_treasurebox2.bundle"
+        },
+        {
+            "BundleGUID": "8c979148ad76f40038095fadd82eaf91",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_tunshifx.bundle"
+        },
+        {
+            "BundleGUID": "b4aa2a8f74ac4d62391eb5bfcdc8a0dc",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_uicombo.bundle"
+        },
+        {
+            "BundleGUID": "aef23f955d91f1896f1e8894d93edcee",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_xilianfx.bundle"
+        },
+        {
+            "BundleGUID": "11d7230d39c2ca901f73826261588631",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_xvewei_lv1.bundle"
+        },
+        {
+            "BundleGUID": "0f0ba09eb3ff0c79837c031d2318cdd3",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_xvewei_lv2.bundle"
+        },
+        {
+            "BundleGUID": "c2bf2ed465211e89a0e439dbb5a49ee1",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_xvewei_lv3.bundle"
+        },
+        {
+            "BundleGUID": "bd7f9d3ea1e83fcce529cb22af550d81",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yaodao1.bundle"
+        },
+        {
+            "BundleGUID": "2e379bdd7999ae498ba1fb24a864919d",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yaodao2.bundle"
+        },
+        {
+            "BundleGUID": "40c231761a1f299f4d43688fa28f7102",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yaodao3.bundle"
+        },
+        {
+            "BundleGUID": "a04bb2be5f8449934cb5ea2e4369e3bb",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yaodao4.bundle"
+        },
+        {
+            "BundleGUID": "4e437a250680f14829c6e47c12dc2572",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yaodao5.bundle"
+        },
+        {
+            "BundleGUID": "2d50e98ec8ae26f8ef52b821d9efa548",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yupei1.bundle"
+        },
+        {
+            "BundleGUID": "8c1d58861682c4442623b851a5956810",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yupei2.bundle"
+        },
+        {
+            "BundleGUID": "fd1d258f4335d572f71fdeb629bc56dd",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yupei3.bundle"
+        },
+        {
+            "BundleGUID": "d879258086607ff65b54edf5cca11e1d",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yupei4.bundle"
+        },
+        {
+            "BundleGUID": "cf33f54a8e08e6448a41ecd11858fcf4",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yupei5.bundle"
+        },
+        {
+            "BundleGUID": "db00f148a7a21aee958e479ad5de305c",
+            "FileName": "defaultpackage_share_assets_data_fx_uitexiao_yupei6.bundle"
+        },
+        {
+            "BundleGUID": "37cbf27b7e671ad4de2670c6224def29",
+            "FileName": "defaultpackage_share_assets_data_map_map_1.bundle"
+        },
+        {
+            "BundleGUID": "39a7281777a3f67943bb606823c7c72e",
+            "FileName": "defaultpackage_share_assets_data_map_map_10.bundle"
+        },
+        {
+            "BundleGUID": "94d442be006260a3458e8894a7496fba",
+            "FileName": "defaultpackage_share_assets_data_map_map_101.bundle"
+        },
+        {
+            "BundleGUID": "e582f8939358b37485ba201901e484ab",
+            "FileName": "defaultpackage_share_assets_data_map_map_102.bundle"
+        },
+        {
+            "BundleGUID": "6f764b9ff13c32e860d9b1e8ed4b039f",
+            "FileName": "defaultpackage_share_assets_data_map_map_103.bundle"
+        },
+        {
+            "BundleGUID": "44a01fa6aca4aed20abe13146b7942dc",
+            "FileName": "defaultpackage_share_assets_data_map_map_104.bundle"
+        },
+        {
+            "BundleGUID": "11dd9a0024cec659fcf52b05d1144139",
+            "FileName": "defaultpackage_share_assets_data_map_map_105.bundle"
+        },
+        {
+            "BundleGUID": "30b28835d40c86d7ab9a5e8d0eb001d1",
+            "FileName": "defaultpackage_share_assets_data_map_map_106.bundle"
+        },
+        {
+            "BundleGUID": "5e3b25704c3413da282240918e6646e8",
+            "FileName": "defaultpackage_share_assets_data_map_map_107.bundle"
+        },
+        {
+            "BundleGUID": "0e74f765871272b713a6622da9f4a10d",
+            "FileName": "defaultpackage_share_assets_data_map_map_108.bundle"
+        },
+        {
+            "BundleGUID": "289d4826beba88afe9cf242b69ba35de",
+            "FileName": "defaultpackage_share_assets_data_map_map_109.bundle"
+        },
+        {
+            "BundleGUID": "77d6a81911d0b425bbcbc7780af21be3",
+            "FileName": "defaultpackage_share_assets_data_map_map_10_1.bundle"
+        },
+        {
+            "BundleGUID": "f768898a5e80f5370e771d9de4cdaf36",
+            "FileName": "defaultpackage_share_assets_data_map_map_11.bundle"
+        },
+        {
+            "BundleGUID": "814de745588f5478e0e14f926959b043",
+            "FileName": "defaultpackage_share_assets_data_map_map_12.bundle"
+        },
+        {
+            "BundleGUID": "d50e48f7d6bba300f7f1bf7cd21bd12d",
+            "FileName": "defaultpackage_share_assets_data_map_map_13.bundle"
+        },
+        {
+            "BundleGUID": "8d7ec1a05fd3ae1f137febbb1fe711ad",
+            "FileName": "defaultpackage_share_assets_data_map_map_13_1.bundle"
+        },
+        {
+            "BundleGUID": "aec49daa1f133684078ba83476d2f147",
+            "FileName": "defaultpackage_share_assets_data_map_map_14.bundle"
+        },
+        {
+            "BundleGUID": "b44146b26d7476ef3769aa5400c3f4bf",
+            "FileName": "defaultpackage_share_assets_data_map_map_14_1.bundle"
+        },
+        {
+            "BundleGUID": "011497b954be9cc2d7dbf92b6e1fd26f",
+            "FileName": "defaultpackage_share_assets_data_map_map_14_2.bundle"
+        },
+        {
+            "BundleGUID": "4c1004e86fc1f23a508f997d6a9675c5",
+            "FileName": "defaultpackage_share_assets_data_map_map_15.bundle"
+        },
+        {
+            "BundleGUID": "ea6d3a0a59db81a05c0b60be845983c1",
+            "FileName": "defaultpackage_share_assets_data_map_map_15_1.bundle"
+        },
+        {
+            "BundleGUID": "172d4eca0afb18d20cc8e6c3ef7782c2",
+            "FileName": "defaultpackage_share_assets_data_map_map_16.bundle"
+        },
+        {
+            "BundleGUID": "b98c82c943e5a267ae160e7c7d5886bd",
+            "FileName": "defaultpackage_share_assets_data_map_map_17.bundle"
+        },
+        {
+            "BundleGUID": "e4448c022904bbd230b90ed1ada5eb50",
+            "FileName": "defaultpackage_share_assets_data_map_map_17_1.bundle"
+        },
+        {
+            "BundleGUID": "4999b5b2feb873cee441114071ed7082",
+            "FileName": "defaultpackage_share_assets_data_map_map_18.bundle"
+        },
+        {
+            "BundleGUID": "dafcfb6171070d5d6fbc62942be6e16c",
+            "FileName": "defaultpackage_share_assets_data_map_map_19.bundle"
+        },
+        {
+            "BundleGUID": "ccf4d8980c211578cacd6679e55df2a8",
+            "FileName": "defaultpackage_share_assets_data_map_map_19_1.bundle"
+        },
+        {
+            "BundleGUID": "d15d01c575ca4c9d6e3b4cf80fa9e188",
+            "FileName": "defaultpackage_share_assets_data_map_map_19_2.bundle"
+        },
+        {
+            "BundleGUID": "a584094f69c38a5216f7e04d32102758",
+            "FileName": "defaultpackage_share_assets_data_map_map_19_3.bundle"
+        },
+        {
+            "BundleGUID": "b40e900afbd1376f027a3c6e1844645e",
+            "FileName": "defaultpackage_share_assets_data_map_map_1_1.bundle"
+        },
+        {
+            "BundleGUID": "589a4c10b5308e721d02680e4aa6d868",
+            "FileName": "defaultpackage_share_assets_data_map_map_1_2.bundle"
+        },
+        {
+            "BundleGUID": "9f8b35d478b2fd22f993a4edb3a41cdf",
+            "FileName": "defaultpackage_share_assets_data_map_map_1_3.bundle"
+        },
+        {
+            "BundleGUID": "5a8374477ae70bd22b71cdb1af2ff0dd",
+            "FileName": "defaultpackage_share_assets_data_map_map_1_4.bundle"
+        },
+        {
+            "BundleGUID": "b2e6d3d4b9c337c8b6425a89b233f0cd",
+            "FileName": "defaultpackage_share_assets_data_map_map_2.bundle"
+        },
+        {
+            "BundleGUID": "7b22793eb3e5cc2150bf4250442c3ad0",
+            "FileName": "defaultpackage_share_assets_data_map_map_20.bundle"
+        },
+        {
+            "BundleGUID": "59adab816f21d0cb3e19205874663728",
+            "FileName": "defaultpackage_share_assets_data_map_map_201.bundle"
+        },
+        {
+            "BundleGUID": "8ef606be15397a4201df38bb49226cec",
+            "FileName": "defaultpackage_share_assets_data_map_map_202.bundle"
+        },
+        {
+            "BundleGUID": "6ff704f71591c58f035e412337312365",
+            "FileName": "defaultpackage_share_assets_data_map_map_203.bundle"
+        },
+        {
+            "BundleGUID": "55413d94a0fb18bbb8a68044e88771f7",
+            "FileName": "defaultpackage_share_assets_data_map_map_204.bundle"
+        },
+        {
+            "BundleGUID": "edf9e2c322ee53314540b50a0e6dfb57",
+            "FileName": "defaultpackage_share_assets_data_map_map_205.bundle"
+        },
+        {
+            "BundleGUID": "a9f251708a8cee786da670d8e9d2fff3",
+            "FileName": "defaultpackage_share_assets_data_map_map_206.bundle"
+        },
+        {
+            "BundleGUID": "aa1482e4f2152263a61aa815f32f5122",
+            "FileName": "defaultpackage_share_assets_data_map_map_207.bundle"
+        },
+        {
+            "BundleGUID": "4feafbe486003c40405513449b2101aa",
+            "FileName": "defaultpackage_share_assets_data_map_map_208.bundle"
+        },
+        {
+            "BundleGUID": "2bb5f752101f5d1e8a0262d7ecb6c798",
+            "FileName": "defaultpackage_share_assets_data_map_map_209.bundle"
+        },
+        {
+            "BundleGUID": "0ef6e721bd2be010f21d845c445070cf",
+            "FileName": "defaultpackage_share_assets_data_map_map_210.bundle"
+        },
+        {
+            "BundleGUID": "0a9618c50f116e9a862ecbba649c0791",
+            "FileName": "defaultpackage_share_assets_data_map_map_3.bundle"
+        },
+        {
+            "BundleGUID": "0c2bb0dc329e4694288ddaadecb53e0e",
+            "FileName": "defaultpackage_share_assets_data_map_map_309.bundle"
+        },
+        {
+            "BundleGUID": "fdd939907237be8ab13b0e4887586339",
+            "FileName": "defaultpackage_share_assets_data_map_map_310.bundle"
+        },
+        {
+            "BundleGUID": "b8013fee6eb1c4fee922f71028d6bd05",
+            "FileName": "defaultpackage_share_assets_data_map_map_312.bundle"
+        },
+        {
+            "BundleGUID": "a94bcb2d0f1068683caf7a6934279e93",
+            "FileName": "defaultpackage_share_assets_data_map_map_315.bundle"
+        },
+        {
+            "BundleGUID": "fd9bf8b896a98a369e9b2113f461ec6e",
+            "FileName": "defaultpackage_share_assets_data_map_map_318.bundle"
+        },
+        {
+            "BundleGUID": "60b284aa85f8eccb9080deb992f7d9a1",
+            "FileName": "defaultpackage_share_assets_data_map_map_3_1.bundle"
+        },
+        {
+            "BundleGUID": "7f3c9353b73618e8e6981199d849f644",
+            "FileName": "defaultpackage_share_assets_data_map_map_3_2.bundle"
+        },
+        {
+            "BundleGUID": "fc0ae79523618c00bff27418aa60b60c",
+            "FileName": "defaultpackage_share_assets_data_map_map_3_3.bundle"
+        },
+        {
+            "BundleGUID": "62ca63b4b7ff668d322101cd8f4f52db",
+            "FileName": "defaultpackage_share_assets_data_map_map_4.bundle"
+        },
+        {
+            "BundleGUID": "0635a21d70535d1e0a3f8320474b4953",
+            "FileName": "defaultpackage_share_assets_data_map_map_400.bundle"
+        },
+        {
+            "BundleGUID": "f41f94d98bf72d4ee677749686f8443e",
+            "FileName": "defaultpackage_share_assets_data_map_map_401.bundle"
+        },
+        {
+            "BundleGUID": "6eca7a710f0200342ee0ab1948d499ac",
+            "FileName": "defaultpackage_share_assets_data_map_map_402.bundle"
+        },
+        {
+            "BundleGUID": "748749a50c501de6830948ea469e18f3",
+            "FileName": "defaultpackage_share_assets_data_map_map_403.bundle"
+        },
+        {
+            "BundleGUID": "22e020d75ee1fe1fc71746e5ebbc37b0",
+            "FileName": "defaultpackage_share_assets_data_map_map_404.bundle"
+        },
+        {
+            "BundleGUID": "84ba9e102fb88c9aab2f3d39a91da278",
+            "FileName": "defaultpackage_share_assets_data_map_map_405.bundle"
+        },
+        {
+            "BundleGUID": "6e4d956041f8c2e62636fe53e7ed5218",
+            "FileName": "defaultpackage_share_assets_data_map_map_406.bundle"
+        },
+        {
+            "BundleGUID": "ec369894ea7b0bbc44117265b8c94f97",
+            "FileName": "defaultpackage_share_assets_data_map_map_4_1.bundle"
+        },
+        {
+            "BundleGUID": "0f0eb44d46a947d90b73d972f18d7222",
+            "FileName": "defaultpackage_share_assets_data_map_map_5.bundle"
+        },
+        {
+            "BundleGUID": "db1454506f59845e25c4610945de2bae",
+            "FileName": "defaultpackage_share_assets_data_map_map_6.bundle"
+        },
+        {
+            "BundleGUID": "59a949c31346f5260e481896640d98df",
+            "FileName": "defaultpackage_share_assets_data_map_map_7.bundle"
+        },
+        {
+            "BundleGUID": "618b8218c3a460f5cf9e785d01096be7",
+            "FileName": "defaultpackage_share_assets_data_map_map_7_1.bundle"
+        },
+        {
+            "BundleGUID": "5da44c7ebe7f339947b7597f57c26b18",
+            "FileName": "defaultpackage_share_assets_data_map_map_8.bundle"
+        },
+        {
+            "BundleGUID": "9d98f7e747041174132094136a7110f2",
+            "FileName": "defaultpackage_share_assets_data_map_map_8_1.bundle"
+        },
+        {
+            "BundleGUID": "75d7a5bf90a435fc9cb44e9e2d55ed44",
+            "FileName": "defaultpackage_share_assets_data_map_map_8_2.bundle"
+        },
+        {
+            "BundleGUID": "e5a73dd0271259ff6900938d96878af7",
+            "FileName": "defaultpackage_share_assets_data_map_map_9.bundle"
+        },
+        {
+            "BundleGUID": "0eb10ef54317169bfb486a3faf0ce333",
+            "FileName": "defaultpackage_share_assets_data_map_map_9_1.bundle"
+        },
+        {
+            "BundleGUID": "0dcce307864f56ee5ac50a084159b5a7",
+            "FileName": "defaultpackage_share_assets_resources.bundle"
+        },
+        {
+            "BundleGUID": "fb72f87c11fd1979c4c0c42e295e195d",
+            "FileName": "defaultpackage_share_assets_resources_taptap.bundle"
+        },
+        {
+            "BundleGUID": "a9eefc5bec3e29eda82f9a5ec5907d29",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_headicon.bundle"
+        },
+        {
+            "BundleGUID": "d5191b50d7e9c9a5351f6fbce23e9a6b",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_kuangshi.bundle"
+        },
+        {
+            "BundleGUID": "cb48a5fe2d6b6cd7f78636cdc62df3dc",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uiatlas.bundle"
+        },
+        {
+            "BundleGUID": "c6c00c3acb5bb596e8e0bfc69af5fb51",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uiatlas2.bundle"
+        },
+        {
+            "BundleGUID": "5482c74a79917e76cb30f9a765b4ea6f",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uiatlas3.bundle"
+        },
+        {
+            "BundleGUID": "101bc4925ca64878c922140e1ee6d4ab",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uiatlas4.bundle"
+        },
+        {
+            "BundleGUID": "3ecf23dcbe7b767990244dd490161cb9",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uiatlas5.bundle"
+        },
+        {
+            "BundleGUID": "329b6c57702677d5a534590f260c8e65",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uiatlas6.bundle"
+        },
+        {
+            "BundleGUID": "49fb9cd4d3f13a3187a19b6e2f07aacc",
+            "FileName": "defaultpackage_share_assets_resourcesui_uis_uirecharge.bundle"
+        },
+        {
+            "BundleGUID": "9f1d56f560d2491426ddd9510954b808",
+            "FileName": "defaultpackage_share_assets_resourcesui_uitexture.bundle"
+        },
+        {
+            "BundleGUID": "fde416a212dd877eb6a4336280687d82",
+            "FileName": "defaultpackage_share_assets_scripts_hotupdate_3rdparty_emoji_output.bundle"
+        },
+        {
+            "BundleGUID": "6319a863d06f5df29034c2a2a47f853e",
+            "FileName": "defaultpackage_share_assets_scripts_hotupdate_3rdparty_superscrollview_demo_texture_button.bundle"
+        },
+        {
+            "BundleGUID": "51770e6a40cfb5294b2cea42c8f7534d",
+            "FileName": "defaultpackage_share_assets_shaderdemo.bundle"
+        },
+        {
+            "BundleGUID": "3f69da9c51411b61990dc648428d898e",
+            "FileName": "defaultpackage_unityshaders.bundle"
+        }
+    ]
+}
